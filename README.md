@@ -30,4 +30,3 @@ PyTorch can be installed using the following [guide](https://pytorch.org/get-sta
     - `python split_shots.py <filename> <method>`, where `<method>` is either scenedetect (a lot lighter) or transnet (more accurate)
 - `gui.py` opens the GUI for further annotation:
     - `python gui.py <dir>`, where `<dir>` is the directory with movie shots.
-

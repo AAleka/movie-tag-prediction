@@ -22,6 +22,7 @@ MOVIE_DIR = str(dir)
 ANNOTATION_FILE = "data/annotations.txt"
 TAGS = pd.read_excel("data/label_selection.xlsx")["English Label"].to_list()
 TAGS = sorted(TAGS)
+TAGS.insert(0, "No label")
 
 class VideoAnnotator:
     def __init__(self, root):
