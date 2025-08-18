@@ -1,0 +1,6 @@
+__pycache__
+movies
+venv
+data/annotations.txt
+shots_scenedetect
+shots_transnet

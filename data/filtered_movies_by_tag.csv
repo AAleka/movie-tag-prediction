@@ -1,0 +1,1821 @@
+item_id,title,year,tag,score
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",2000.0,sword fight,0.95744336
+7090,Hero (Ying xiong) (2002),2002.0,sword fight,0.95146275
+3889,Highlander: Endgame (Highlander IV) (2000),2000.0,sword fight,0.9474658
+6714,So Close (Chik Yeung Tin Sai) (2002),2002.0,sword fight,0.941903
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),2003.0,sword fight,0.9418454
+7458,Troy (2004),2004.0,sword fight,0.93889666
+27865,Azumi (2003),2003.0,sword fight,0.93836796
+45722,Pirates of the Caribbean: Dead Man's Chest (2006),2006.0,sword fight,0.93340623
+50005,Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006),2006.0,sword fight,0.92998075
+86142,13 Assassins (Jûsan-nin no shikaku) (2010),2010.0,sword fight,0.92774916
+5952,"Lord of the Rings: The Two Towers, The (2002)",2002.0,sword fight,0.9251882
+7143,"Last Samurai, The (2003)",2003.0,sword fight,0.924456
+8370,"Blind Swordsman: Zatoichi, The (Zatôichi) (2003)",2003.0,sword fight,0.9229013
+90403,"Three Musketeers, The (2011)",2011.0,sword fight,0.9074389
+3578,Gladiator (2000),2000.0,sword fight,0.8964994000000001
+51662,300 (2007),2007.0,sword fight,0.8698758
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2001.0,sword fight,0.8543627
+51939,TMNT (Teenage Mutant Ninja Turtles) (2007),2007.0,sword fight,0.84750795
+7373,Hellboy (2004),2004.0,sword fight,0.84467244
+77540,Solomon Kane (2009),2009.0,sword fight,0.83984256
+4878,Donnie Darko (2001),2001.0,time loop,1.0347157
+57504,"Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006)",2006.0,time loop,1.0330724
+74228,Triangle (2009),2009.0,time loop,1.0263227
+85414,Source Code (2011),2011.0,time loop,1.0247515
+4226,Memento (2000),2000.0,time loop,1.0235709000000002
+65642,"Timecrimes (Cronocrímenes, Los) (2007)",2007.0,time loop,1.0225916
+49278,Déjà Vu (Deja Vu) (2006),2006.0,time loop,1.0034935
+7254,The Butterfly Effect (2004),2004.0,time loop,1.0022922
+5445,Minority Report (2002),2002.0,time loop,1.0017581
+96610,Looper (2012),2012.0,time loop,0.9970815
+5171,"Time Machine, The (2002)",2002.0,time loop,0.8949982
+71106,Frequently Asked Questions About Time Travel (2009),2009.0,time loop,0.8815613000000001
+8914,Primer (2004),2004.0,time loop,0.84338295
+42422,Voices of a Distant Star (Hoshi no koe) (2003),2003.0,time loop,0.8017651
+70521,Lost in Austen (2008),2008.0,time loop,0.7731996999999999
+3515,Me Myself I (2000),2000.0,time loop,0.7231095000000001
+6327,"Decade Under the Influence, A (2003)",2003.0,time loop,0.71077216
+4738,Happy Accidents (2000),2000.0,time loop,0.70997584
+60674,Stargate: Continuum (2008),2008.0,time loop,0.7003108
+5264,Clockstoppers (2002),2002.0,time loop,0.69171
+80839,Secretariat (2010),2010.0,racing,1.0099598
+67923,"Fast & Furious (Fast and the Furious 4, The) (2009)",2009.0,racing,1.0052941
+46970,Talladega Nights: The Ballad of Ricky Bobby (2006),2006.0,racing,1.0045344
+46335,"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)",2006.0,racing,1.0023499
+6565,Seabiscuit (2003),2003.0,racing,1.0010748
+4728,Rat Race (2001),2001.0,racing,1.0003086
+4369,"Fast and the Furious, The (2001)",2001.0,racing,0.9989712
+6383,"2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",2003.0,racing,0.99637544
+7324,Hidalgo (2004),2004.0,racing,0.994555
+85774,Senna (2010),2010.0,racing,0.9901335
+6057,Biker Boyz (2003),2003.0,racing,0.98765767
+33830,Herbie: Fully Loaded (2005),2005.0,racing,0.9872534
+87876,Cars 2 (2011),2011.0,racing,0.9862461
+31223,Racing Stripes (2005),2005.0,racing,0.98579717
+104913,Rush (2013),2013.0,racing,0.9851574
+59037,Speed Racer (2008),2008.0,racing,0.9814793
+45517,Cars (2006),2006.0,racing,0.9809607
+97913,Wreck-It Ralph (2012),2012.0,racing,0.97926116
+39307,Dreamer: Inspired by a True Story (2005),2005.0,racing,0.9541745
+61248,Death Race (2008),2008.0,racing,0.9339304
+3899,Circus (2000),2000.0,gangster,1.0189093
+3301,"Whole Nine Yards, The (2000)",2000.0,gangster,1.0148245
+5423,Gangster No. 1 (2000),2000.0,gangster,1.0133864
+5900,Analyze That (2002),2002.0,gangster,1.0130159
+50794,Smokin' Aces (2006),2006.0,gangster,1.0125371
+40959,"Ice Harvest, The (2005)",2005.0,gangster,1.0123264
+3896,"Way of the Gun, The (2000)",2000.0,gangster,1.0120721
+7201,Crime Spree (2003),2003.0,gangster,1.0109423
+97860,Killing Them Softly (2012),2012.0,gangster,1.0080738
+4452,Made (2001),2001.0,gangster,1.0038625
+40574,Get Rich or Die Tryin' (2005),2005.0,gangster,1.0035477
+55272,We Own the Night (2007),2007.0,gangster,1.0021424
+44197,Find Me Guilty (2006),2006.0,gangster,1.000789
+82093,London Boulevard (2010),2010.0,gangster,1.0004764000000002
+73344,"Prophet, A (Un Prophète) (2009)",2009.0,gangster,1.0004319
+4378,Sexy Beast (2000),2000.0,gangster,1.0003773
+6300,Flickering Lights (Blinkende lygter) (2000),2000.0,gangster,1.0000709
+44665,Lucky Number Slevin (2006),2006.0,gangster,0.99940336
+55118,Eastern Promises (2007),2007.0,gangster,0.99917996
+58078,"Air I Breathe, The (2007)",2007.0,gangster,0.9987191
+5094,Rollerball (2002),2002.0,sports,1.0183997
+71518,Whip It (2009),2009.0,sports,1.0159926
+72733,Invictus (2009),2009.0,sports,1.0141565
+8866,Wimbledon (2004),2004.0,sports,1.0053184000000002
+85774,Senna (2010),2010.0,sports,1.0046648
+34153,Murderball (2005),2005.0,sports,1.0033526
+89492,Moneyball (2011),2011.0,sports,1.0017234
+5829,Men with Brooms (2002),2002.0,sports,0.9970243
+37739,"Greatest Game Ever Played, The (2005)",2005.0,sports,0.9961195
+104913,Rush (2013),2013.0,sports,0.9958054
+42730,Glory Road (2006),2006.0,sports,0.9939443
+38388,Goal! The Dream Begins (Goal!) (2005),2005.0,sports,0.9938867
+93443,Goon (2011),2011.0,sports,0.9935925
+67223,Sugar (2008),2008.0,sports,0.99260974
+101895,42 (2013),2013.0,sports,0.9925331
+31225,Coach Carter (2005),2005.0,sports,0.9920994
+7263,Miracle (2004),2004.0,sports,0.9920144
+49793,We Are Marshall (2006),2006.0,sports,0.9915495
+32302,"League of Ordinary Gentlemen, A (2004)",2004.0,sports,0.99136806
+3916,Remember the Titans (2000),2000.0,sports,0.9912678
+59594,"War, Inc. (2008)",2008.0,dystopia,1.0140066
+48774,Children of Men (2006),2006.0,dystopia,1.00546
+5903,Equilibrium (2002),2002.0,dystopia,1.0031374
+103253,Elysium (2013),2013.0,dystopia,1.0025159
+103075,"Purge, The (2013)",2013.0,dystopia,1.0024825000000002
+73268,Daybreakers (2010),2010.0,dystopia,1.0023491
+37386,Aeon Flux (2005),2005.0,dystopia,1.0000907
+43928,Ultraviolet (2006),2006.0,dystopia,0.9999367
+90405,In Time (2011),2011.0,dystopia,0.99912286
+61350,Babylon A.D. (2008),2008.0,dystopia,0.99877524
+86835,Priest (2011),2011.0,dystopia,0.9987143
+27905,Casshern (2004),2004.0,dystopia,0.99797547
+95875,Total Recall (2012),2012.0,dystopia,0.9971545
+91500,The Hunger Games (2012),2012.0,dystopia,0.99670815
+44191,V for Vendetta (2006),2006.0,dystopia,0.9965446
+96737,Dredd (2012),2012.0,dystopia,0.9964328
+47997,Idiocracy (2006),2006.0,dystopia,0.99629104
+106487,The Hunger Games: Catching Fire (2013),2013.0,dystopia,0.9962373
+63072,"Road, The (2009)",2009.0,dystopia,0.9959905
+71254,Gamer (2009),2009.0,dystopia,0.9958354
+38992,Two for the Money (2005),2005.0,gambling,0.9384396
+6279,"Good Thief, The (2002)",2002.0,gambling,0.93562365
+6337,Owning Mahowny (2003),2003.0,gambling,0.9304992
+5949,Intact (Intacto) (2001),2001.0,gambling,0.8880553
+52724,Lucky You (2007),2007.0,gambling,0.87341607
+7137,"Cooler, The (2003)",2003.0,gambling,0.81280196
+70846,Lorna's Silence (Le silence de Lorna) (2008),2008.0,gambling,0.8080472
+7383,Shade (2003),2003.0,gambling,0.8047074000000001
+82244,13 (2010),2010.0,gambling,0.784724
+3298,Boiler Room (2000),2000.0,gambling,0.7767470000000001
+58803,21 (2008),2008.0,gambling,0.763095
+5424,Harvard Man (2001),2001.0,gambling,0.74156785
+57147,Cassandra's Dream (2007),2007.0,gambling,0.741071
+97860,Killing Them Softly (2012),2012.0,gambling,0.7290729
+99728,Gangster Squad (2013),2013.0,gambling,0.69279003
+76060,"Slammin' Salmon, The (2009)",2009.0,gambling,0.67110074
+4011,Snatch (2000),2000.0,gambling,0.67080414
+86628,Kill the Irishman (2011),2011.0,gambling,0.6690687
+8862,Criminal (2004),2004.0,gambling,0.6676302
+87785,Takers (2010),2010.0,gambling,0.6621052
+60069,WALL·E (2008),2008.0,space,1.0177524
+55176,In the Shadow of the Moon (2007),2007.0,space,1.0130277
+68237,Moon (2009),2009.0,space,1.0088191
+92192,Apollo 18 (2011),2011.0,space,1.0076796
+5378,Star Wars: Episode II - Attack of the Clones (2002),2002.0,space,1.0068586
+85736,BURN-E (2008),2008.0,space,1.0049742
+33493,Star Wars: Episode III - Revenge of the Sith (2005),2005.0,space,1.0041456
+33004,"Hitchhiker's Guide to the Galaxy, The (2005)",2005.0,space,1.0037324
+63433,Farscape: The Peacekeeper Wars (2004),2004.0,space,1.0023620999999998
+61160,Star Wars: The Clone Wars (2008),2008.0,space,1.0023584
+65982,Outlander (2008),2008.0,space,1.0017204
+3300,Pitch Black (2000),2000.0,space,1.0016018
+59392,Stargate: The Ark of Truth (2008),2008.0,space,1.0012144
+27611,Battlestar Galactica (2003),2003.0,space,1.0011959
+94864,Prometheus (2012),2012.0,space,1.001151
+62836,Babylon 5: The Lost Tales - Voices in the Dark (2007),2007.0,space,1.0011466
+104243,Riddick (2013),2013.0,space,1.000964
+106002,Ender's Game (2013),2013.0,space,0.9995632
+72308,Battlestar Galactica: The Plan (2009),2009.0,space,0.99935794
+68358,Star Trek (2009),2009.0,space,0.9993453
+31410,"Downfall (Untergang, Der) (2004)",2004.0,nazi,0.8713799999999999
+27410,Conspiracy (2001),2001.0,nazi,0.8713323000000001
+58303,"Counterfeiters, The (Die Fälscher) (2007)",2007.0,nazi,0.8677056999999999
+27816,Saints and Soldiers (2003),2003.0,nazi,0.866758
+5379,"Believer, The (2001)",2001.0,nazi,0.8594120999999999
+5995,"Pianist, The (2002)",2002.0,nazi,0.8528863000000001
+68157,Inglourious Basterds (2009),2009.0,nazi,0.84285784
+73759,Hellsing Ultimate OVA Series (2006),2006.0,nazi,0.82280993
+64034,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",2008.0,nazi,0.8139857
+32025,Walk on Water (2004),2004.0,nazi,0.8017279
+93805,Iron Sky (2012),2012.0,nazi,0.79615474
+92234,Red Tails (2012),2012.0,nazi,0.77388585
+33124,Before the Fall (NaPolA - Elite für den Führer) (2004),2004.0,nazi,0.7612753999999999
+5425,Dark Blue World (Tmavomodrý svet) (2001),2001.0,nazi,0.74996173
+5615,Invincible (2001),2001.0,nazi,0.7307680999999999
+52042,Black Book (Zwartboek) (2006),2006.0,nazi,0.6504638
+50064,"Good German, The (2006)",2006.0,nazi,0.64036417
+5011,Charlotte Gray (2001),2001.0,nazi,0.6154145000000001
+5107,Hart's War (2002),2002.0,nazi,0.6103637
+4223,Enemy at the Gates (2001),2001.0,nazi,0.60990596
+7163,Paycheck (2003),2003.0,future,1.0344006
+8939,"Final Cut, The (2004)",2004.0,future,1.029628
+5903,Equilibrium (2002),2002.0,future,1.0243924
+67197,Knowing (2009),2009.0,future,1.0242516
+39052,Star Wreck: In the Pirkinning (2005),2005.0,future,1.0190328000000002
+75985,Repo Men (2010),2010.0,future,1.0185193
+68791,Terminator Salvation (2009),2009.0,future,1.016843
+8134,Wonderful Days (a.k.a. Sky Blue) (2003),2003.0,future,1.0165265
+47997,Idiocracy (2006),2006.0,future,1.0156261999999998
+6537,Terminator 3: Rise of the Machines (2003),2003.0,future,1.0155383
+103253,Elysium (2013),2013.0,future,1.0149667
+8800,Code 46 (2003),2003.0,future,1.0142393
+5944,Star Trek: Nemesis (2002),2002.0,future,1.0141972
+94864,Prometheus (2012),2012.0,future,1.0139136
+90249,Real Steel (2011),2011.0,future,1.0138882
+84954,"Adjustment Bureau, The (2011)",2011.0,future,1.0138271
+4370,A.I. Artificial Intelligence (2001),2001.0,future,1.0130469000000002
+68358,Star Trek (2009),2009.0,future,1.0128365
+27728,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004),2004.0,future,1.0127802
+6934,"Matrix Revolutions, The (2003)",2003.0,future,1.0127598
+89388,I Don't Know How She Does It (2011),2011.0,relationships,1.029844
+80551,Eat Pray Love (2010),2010.0,relationships,1.0242959
+45501,"Break-Up, The (2006)",2006.0,relationships,1.0162019
+8966,Kinsey (2004),2004.0,relationships,1.0151228
+97870,"Sessions, The (Surrogate, The) (2012)",2012.0,relationships,1.0129634
+31956,5x2 (2004),2004.0,relationships,1.0128042
+41573,"Family Stone, The (2005)",2005.0,relationships,1.0123966999999998
+6770,My Life Without Me (2003),2003.0,relationships,1.0117134
+105213,Don Jon (2013),2013.0,relationships,1.0110405999999998
+58492,Snow Angels (2007),2007.0,relationships,1.0105187
+91079,Like Crazy (2011),2011.0,relationships,1.0105094
+48744,Shortbus (2006),2006.0,relationships,1.0101179
+5477,Sex and Lucia (Lucía y el sexo) (2001),2001.0,relationships,1.0099216999999998
+87304,Beginners (2010),2010.0,relationships,1.0097069
+5222,Kissing Jessica Stein (2001),2001.0,relationships,1.0096864
+44864,Friends with Money (2006),2006.0,relationships,1.0090101
+78039,Blue Valentine (2010),2010.0,relationships,1.008694
+72720,"Single Man, A (2009)",2009.0,relationships,1.0083529
+62344,Rachel Getting Married (2008),2008.0,relationships,1.0083253
+80241,Going the Distance (2010),2010.0,relationships,1.0081857
+6537,Terminator 3: Rise of the Machines (2003),2003.0,end of the world,1.0300261
+53000,28 Weeks Later (2007),2007.0,end of the world,1.024814
+7360,Dawn of the Dead (2004),2004.0,end of the world,1.0244198
+64497,"Day the Earth Stood Still, The (2008)",2008.0,end of the world,1.0230429
+67197,Knowing (2009),2009.0,end of the world,1.0186859
+8361,"Day After Tomorrow, The (2004)",2004.0,end of the world,1.0165789
+34048,War of the Worlds (2005),2005.0,end of the world,1.0162323
+96691,Resident Evil: Retribution (2012),2012.0,end of the world,1.0145962
+5219,Resident Evil (2002),2002.0,end of the world,1.0142623
+33834,Land of the Dead (2005),2005.0,end of the world,1.0141131
+72378,2012 (2009),2009.0,end of the world,1.0125409
+6502,28 Days Later (2002),2002.0,end of the world,1.0100886
+94018,Battleship (2012),2012.0,end of the world,1.0072674
+82095,Skyline (2010),2010.0,end of the world,1.0043966
+5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),2002.0,end of the world,0.99648845
+60037,"Happening, The (2008)",2008.0,end of the world,0.9949931
+33004,"Hitchhiker's Guide to the Galaxy, The (2005)",2005.0,end of the world,0.9915569
+56174,I Am Legend (2007),2007.0,end of the world,0.99064994
+48774,Children of Men (2006),2006.0,end of the world,0.9889127
+8874,Shaun of the Dead (2004),2004.0,end of the world,0.976797
+57353,Flawless (2007),2007.0,heist,1.0081825999999998
+44199,Inside Man (2006),2006.0,heist,1.0017154
+7262,Catch That Kid (2004),2004.0,heist,1.0013199000000002
+58295,"Bank Job, The (2008)",2008.0,heist,0.99749935
+66691,"Thick as Thieves (a.k.a. Code, The) (2009)",2009.0,heist,0.99038696
+4963,Ocean's Eleven (2001),2001.0,heist,0.98795366
+4448,"Score, The (2001)",2001.0,heist,0.9874741
+91978,Man on a Ledge (2012),2012.0,heist,0.98676956
+101741,Trance (2013),2013.0,heist,0.9862106
+6279,"Good Thief, The (2002)",2002.0,heist,0.9861747
+6378,"Italian Job, The (2003)",2003.0,heist,0.9851532
+80489,"Town, The (2010)",2010.0,heist,0.9834167
+53322,Ocean's Thirteen (2007),2007.0,heist,0.9821973
+8984,Ocean's Twelve (2004),2004.0,heist,0.9817151
+4889,Heist (2001),2001.0,heist,0.98121834
+72762,Armored (2009),2009.0,heist,0.980703
+87785,Takers (2010),2010.0,heist,0.97856486
+5636,Welcome to Collinwood (2002),2002.0,heist,0.9784812
+90717,Tower Heist (2011),2011.0,heist,0.9784241
+52241,"Lookout, The (2007)",2007.0,heist,0.9652903
+96610,Looper (2012),2012.0,organized crime,1.0104933
+66744,"Divo, Il (2008)",2008.0,organized crime,1.0079252
+4034,Traffic (2000),2000.0,organized crime,1.0061236999999998
+103883,2 Guns (2013),2013.0,organized crime,1.0057901
+38095,"Bittersweet Life, A (Dalkomhan insaeng) (2005)",2005.0,organized crime,1.0050279
+44665,Lucky Number Slevin (2006),2006.0,organized crime,1.003662
+36529,Lord of War (2005),2005.0,organized crime,1.0032231
+5987,"Love, Honour and Obey (2000)",2000.0,organized crime,1.003177
+33154,Enron: The Smartest Guys in the Room (2005),2005.0,organized crime,1.0016266
+5464,Road to Perdition (2002),2002.0,organized crime,1.0011909
+27831,Layer Cake (2004),2004.0,organized crime,1.0010575000000002
+55118,Eastern Promises (2007),2007.0,organized crime,1.0006609
+55765,American Gangster (2007),2007.0,organized crime,1.0002648
+3275,"Boondock Saints, The (2000)",2000.0,organized crime,0.9999162
+82093,London Boulevard (2010),2010.0,organized crime,0.99965096
+48516,"Departed, The (2006)",2006.0,organized crime,0.9990698
+31878,Kung Fu Hustle (Gong fu) (2004),2004.0,organized crime,0.9990295
+62250,Gomorrah (Gomorra) (2008),2008.0,organized crime,0.99897325
+97860,Killing Them Softly (2012),2012.0,organized crime,0.998639
+4011,Snatch (2000),2000.0,organized crime,0.9981587
+72407,"Twilight Saga: New Moon, The (2009)",2009.0,teen,1.0289054
+39715,American Pie Presents: Band Camp (American Pie 4: Band Camp) (2005),2005.0,teen,1.0253104
+7773,"Bang, Bang, You're Dead (2002)",2002.0,teen,1.0241491
+59306,Prom Night (2008),2008.0,teen,1.0209305
+3273,Scream 3 (2000),2000.0,teen,1.0196825
+3908,Urban Legends: Final Cut (2000),2000.0,teen,1.0169692
+4143,Valentine (2001),2001.0,teen,1.016841
+63992,Twilight (2008),2008.0,teen,1.0150522
+43679,Final Destination 3 (2006),2006.0,teen,1.0148592
+4718,American Pie 2 (2001),2001.0,teen,1.0148032
+59014,Superhero Movie (2008),2008.0,teen,1.0147513
+33164,House of Wax (2005),2005.0,teen,1.014004
+54290,Bratz: The Movie (2007),2007.0,teen,1.0138749
+5106,Crossroads (2002),2002.0,teen,1.0124829
+6586,American Wedding (American Pie 3) (2003),2003.0,teen,1.0124136
+36531,Venom (2005),2005.0,teen,1.0110036
+5564,Swimfan (2002),2002.0,teen,1.0109107
+71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",2009.0,teen,1.0105665
+31225,Coach Carter (2005),2005.0,teen,1.0084708
+7541,100 Girls (2000),2000.0,teen,1.0080166
+77795,Cargo (2009),2009.0,space travel,1.0091794
+72998,Avatar (2009),2009.0,space travel,1.0053725
+60161,Futurama: The Beast with a Billion Backs (2008),2008.0,space travel,1.0025935
+71135,Pandorum (2009),2009.0,space travel,1.0008867
+50923,"Astronaut Farmer, The (2007)",2007.0,space travel,0.9957994
+104841,Gravity (2013),2013.0,space travel,0.9957521
+34405,Serenity (2005),2005.0,space travel,0.99574924
+33004,"Hitchhiker's Guide to the Galaxy, The (2005)",2005.0,space travel,0.99451435
+60069,WALL·E (2008),2008.0,space travel,0.9934075
+52328,Sunshine (2007),2007.0,space travel,0.9923626
+4643,Planet of the Apes (2001),2001.0,space travel,0.9910766
+92192,Apollo 18 (2011),2011.0,space travel,0.99001527
+68358,Star Trek (2009),2009.0,space travel,0.988755
+94864,Prometheus (2012),2012.0,space travel,0.98780525
+59392,Stargate: The Ark of Truth (2008),2008.0,space travel,0.98776996
+39052,Star Wreck: In the Pirkinning (2005),2005.0,space travel,0.9877517
+60674,Stargate: Continuum (2008),2008.0,space travel,0.9851754
+3827,Space Cowboys (2000),2000.0,space travel,0.9823729
+93363,John Carter (2012),2012.0,space travel,0.9820936
+71318,Terra (a.k.a. Battle for Terra) (2007),2007.0,space travel,0.9783169
+6371,Pokémon Heroes (2003),2003.0,nostalgia,0.5399288000000001
+32392,800 Bullets (800 Balas) (2002),2002.0,nostalgia,0.53590417
+55063,My Winnipeg (2007),2007.0,nostalgia,0.535118
+49651,Rocky Balboa (2006),2006.0,nostalgia,0.50101554
+78499,Toy Story 3 (2010),2010.0,nostalgia,0.498052
+89904,The Artist (2011),2011.0,nostalgia,0.47054708
+3945,Digimon: The Movie (2000),2000.0,nostalgia,0.44153702
+59141,Son of Rambow (2007),2007.0,nostalgia,0.43938375
+60293,"Wackness, The (2008)",2008.0,nostalgia,0.40424526
+3951,Two Family House (2000),2000.0,nostalgia,0.4027195
+87234,Submarine (2010),2010.0,nostalgia,0.39810693
+108932,The Lego Movie (2014),2014.0,nostalgia,0.38726938
+84950,Take Me Home Tonight (2011),2011.0,nostalgia,0.3712573
+52952,This Is England (2006),2006.0,nostalgia,0.3699572
+3799,Pokémon the Movie 2000 (2000),2000.0,nostalgia,0.3540513
+51694,Starter for 10 (2006),2006.0,nostalgia,0.34370637
+87306,Super 8 (2011),2011.0,nostalgia,0.34073937
+91094,"Muppets, The (2011)",2011.0,nostalgia,0.33551013
+67734,Adventureland (2009),2009.0,nostalgia,0.33539557
+6760,In This World (2002),2002.0,nostalgia,0.33058393
+101283,"Incredible Burt Wonderstone, The (2013)",2013.0,magic,1.0745243
+48780,"Prestige, The (2006)",2006.0,magic,1.0539606
+102903,Now You See Me (2013),2013.0,magic,1.0445325
+46967,Scoop (2006),2006.0,magic,1.0306343
+47610,"Illusionist, The (2006)",2006.0,magic,1.0239731
+79139,"Sorcerer's Apprentice, The (2010)",2010.0,magic,1.0174353
+55999,Mr. Magorium's Wonder Emporium (2007),2007.0,magic,1.0173819
+27251,"10th Kingdom, The (2000)",2000.0,magic,1.0089613000000002
+60816,"Colour of Magic, The (Terry Pratchett's The Colour of Magic) (2008)",2008.0,magic,1.0011944
+82169,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",2010.0,magic,0.9986913
+3997,Dungeons & Dragons (2000),2000.0,magic,0.998472
+101112,Oz the Great and Powerful (2013),2013.0,magic,0.997103
+54259,Stardust (2007),2007.0,magic,0.99680626
+65685,Inkheart (2008),2008.0,magic,0.993958
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),2001.0,magic,0.99333847
+74553,"Secret of Kells, The (2009)",2009.0,magic,0.99266803
+8368,Harry Potter and the Prisoner of Azkaban (2004),2004.0,magic,0.9915811
+54001,Harry Potter and the Order of the Phoenix (2007),2007.0,magic,0.9912938
+5816,Harry Potter and the Chamber of Secrets (2002),2002.0,magic,0.9902766
+62970,Tin Man (2007),2007.0,magic,0.9901649
+7360,Dawn of the Dead (2004),2004.0,zombie,1.0398482
+5219,Resident Evil (2002),2002.0,zombie,1.0332861999999998
+96691,Resident Evil: Retribution (2012),2012.0,zombie,1.0081004
+80363,Resident Evil: Afterlife (2010),2010.0,zombie,1.0067409
+67168,Dance of the Dead (2008),2008.0,zombie,1.0030426
+55232,Resident Evil: Extinction (2007),2007.0,zombie,1.0026606
+8861,Resident Evil: Apocalypse (2004),2004.0,zombie,1.001254
+89072,Stake Land (2010),2010.0,zombie,0.9981693
+67073,Day of the Dead (2008),2008.0,zombie,0.9979913
+53000,28 Weeks Later (2007),2007.0,zombie,0.99776924
+74685,"Crazies, The (2010)",2010.0,zombie,0.99468637
+6502,28 Days Later (2002),2002.0,zombie,0.99406147
+73211,Pontypool (2008),2008.0,zombie,0.9924524
+62733,Quarantine (2008),2008.0,zombie,0.99186814
+8874,Shaun of the Dead (2004),2004.0,zombie,0.988739
+8578,Undead (2003),2003.0,zombie,0.9880161
+99007,Warm Bodies (2013),2013.0,zombie,0.9838866
+75425,Survival of the Dead (2009),2009.0,zombie,0.9817904
+71535,Zombieland (2009),2009.0,zombie,0.9815073
+54995,Planet Terror (2007),2007.0,zombie,0.98005414
+6754,Underworld (2003),2003.0,vampire,1.0322899
+81180,30 Days of Night: Dark Days (2010),2010.0,vampire,1.0162128
+4266,"Forsaken, The (2001)",2001.0,vampire,1.0096138
+89030,Fright Night (2011),2011.0,vampire,1.0094852
+89072,Stake Land (2010),2010.0,vampire,1.0076773
+4036,Shadow of the Vampire (2000),2000.0,vampire,1.0063236
+55282,30 Days of Night (2007),2007.0,vampire,1.0060711
+73268,Daybreakers (2010),2010.0,vampire,1.0058248
+3796,"Wisdom of Crocodiles, The (a.k.a. Immortality) (2000)",2000.0,vampire,1.0055768
+5146,Vampire Hunter D: Bloodlust (Banpaia hantâ D) (2000),2000.0,vampire,1.004984
+5128,Queen of the Damned (2002),2002.0,vampire,1.0046238
+72165,Cirque du Freak: The Vampire's Assistant (2009),2009.0,vampire,1.0045886999999998
+27441,Blood: The Last Vampire (2000),2000.0,vampire,1.0038222
+98361,Byzantium (2012),2012.0,vampire,1.0030688
+42738,Underworld: Evolution (2006),2006.0,vampire,1.0030288
+5254,Blade II (2002),2002.0,vampire,1.0029167
+69805,"Librarian, The: The Curse of the Judas Chalice (2008)",2008.0,vampire,1.0023291
+95207,Abraham Lincoln: Vampire Hunter (2012),2012.0,vampire,1.0011716999999998
+6366,Dracula: Pages from a Virgin's Diary (2001),2001.0,vampire,0.998402
+65682,Underworld: Rise of the Lycans (2009),2009.0,vampire,0.9977944
+69844,Harry Potter and the Half-Blood Prince (2009),2009.0,parallel universe,1.003714
+54001,Harry Potter and the Order of the Phoenix (2007),2007.0,parallel universe,1.0019042
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),2010.0,parallel universe,1.0017706
+48043,"Fountain, The (2006)",2006.0,parallel universe,0.96311784
+79357,Mr. Nobody (2009),2009.0,parallel universe,0.95584226
+7361,Eternal Sunshine of the Spotless Mind (2004),2004.0,parallel universe,0.9462763
+4878,Donnie Darko (2001),2001.0,parallel universe,0.9413041
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",2006.0,parallel universe,0.93114924
+8368,Harry Potter and the Prisoner of Azkaban (2004),2004.0,parallel universe,0.91770244
+85414,Source Code (2011),2011.0,parallel universe,0.8982370999999999
+37857,MirrorMask (2005),2005.0,parallel universe,0.8929529
+40815,Harry Potter and the Goblet of Fire (2005),2005.0,parallel universe,0.8827995999999999
+95558,Beasts of the Southern Wild (2012),2012.0,parallel universe,0.8709458000000001
+56171,"Golden Compass, The (2007)",2007.0,parallel universe,0.86724627
+27251,"10th Kingdom, The (2000)",2000.0,parallel universe,0.86466205
+62970,Tin Man (2007),2007.0,parallel universe,0.85925424
+54259,Stardust (2007),2007.0,parallel universe,0.8533684000000001
+51698,"Last Mimzy, The (2007)",2007.0,parallel universe,0.84331775
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),2001.0,parallel universe,0.83986056
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2001.0,parallel universe,0.83945537
+3513,Rules of Engagement (2000),2000.0,military,0.9952923
+6263,Basic (2003),2003.0,military,0.99193
+27869,Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004),2004.0,military,0.99070203
+6213,Tears of the Sun (2003),2003.0,military,0.98905826
+58876,Stop-Loss (2008),2008.0,military,0.98360384
+43556,Annapolis (2006),2006.0,military,0.982672
+82037,"Tillman Story, The (2010)",2010.0,military,0.9822215
+94018,Battleship (2012),2012.0,military,0.98122203
+34334,Stealth (2005),2005.0,military,0.976248
+53004,Delta Farce (2007),2007.0,military,0.97293735
+37240,Why We Fight (2005),2005.0,military,0.96039224
+51935,Shooter (2007),2007.0,military,0.9415444
+6567,Buffalo Soldiers (2001),2001.0,military,0.9383004
+4958,Behind Enemy Lines (2001),2001.0,military,0.9362776
+7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",2003.0,military,0.92706454
+74795,Green Zone (2010),2010.0,military,0.92605615
+85131,Battle: Los Angeles (2011),2011.0,military,0.9180211
+5152,We Were Soldiers (2002),2002.0,military,0.8981434000000001
+107069,Lone Survivor (2013),2013.0,military,0.89701533
+60341,Standard Operating Procedure (2008),2008.0,military,0.89513767
+46578,Little Miss Sunshine (2006),2006.0,family bonds,1.005454
+7147,Big Fish (2003),2003.0,family bonds,1.0020126
+104374,About Time (2013),2013.0,family bonds,0.9895383
+83132,"Secret World of Arrietty, The (Kari-gurashi no Arietti) (2010)",2010.0,family bonds,0.96738005
+42004,Transamerica (2005),2005.0,family bonds,0.9543755
+7349,Broken Wings (Knafayim Shvurot) (2002),2002.0,family bonds,0.92633235
+6377,Finding Nemo (2003),2003.0,family bonds,0.8593055
+45672,Click (2006),2006.0,family bonds,0.84733653
+95567,People Like Us (2012),2012.0,family bonds,0.8419434000000001
+74787,My Name is Khan (2010),2010.0,family bonds,0.8273858000000001
+4979,"Royal Tenenbaums, The (2001)",2001.0,family bonds,0.82732975
+30793,Charlie and the Chocolate Factory (2005),2005.0,family bonds,0.82263756
+91653,We Bought a Zoo (2011),2011.0,family bonds,0.82001674
+65188,Dear Zachary: A Letter to a Son About His Father (2008),2008.0,family bonds,0.80533874
+7323,"Good bye, Lenin! (2003)",2003.0,family bonds,0.8006455
+91077,"Descendants, The (2011)",2011.0,family bonds,0.7872826
+8753,Unprecedented: The 2000 Presidential Election (2002),2002.0,family bonds,0.7849802
+66665,Away We Go (2009),2009.0,family bonds,0.7848674
+3967,Billy Elliot (2000),2000.0,family bonds,0.77823734
+4886,"Monsters, Inc. (2001)",2001.0,family bonds,0.77644205
+27728,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004),2004.0,futuristic,1.0476736
+86835,Priest (2011),2011.0,futuristic,1.0431231
+27608,Immortel (ad vitam) (Immortal) (2004),2004.0,futuristic,1.0267882
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),2012.0,futuristic,1.0255671999999998
+75985,Repo Men (2010),2010.0,futuristic,1.0248152
+68237,Moon (2009),2009.0,futuristic,1.0223244
+5445,Minority Report (2002),2002.0,futuristic,1.0153594
+3986,"6th Day, The (2000)",2000.0,futuristic,1.0147655999999998
+5378,Star Wars: Episode II - Attack of the Clones (2002),2002.0,futuristic,1.0146687
+61350,Babylon A.D. (2008),2008.0,futuristic,1.0142543
+5523,"Adventures of Pluto Nash, The (2002)",2002.0,futuristic,1.0134596
+96737,Dredd (2012),2012.0,futuristic,1.0104158
+48774,Children of Men (2006),2006.0,futuristic,1.0089902
+58297,Doomsday (2008),2008.0,futuristic,1.0083523
+8865,Sky Captain and the World of Tomorrow (2004),2004.0,futuristic,1.0074155
+8644,"I, Robot (2004)",2004.0,futuristic,1.0069462
+68791,Terminator Salvation (2009),2009.0,futuristic,1.0042716
+72998,Avatar (2009),2009.0,futuristic,1.0041540999999998
+4370,A.I. Artificial Intelligence (2001),2001.0,futuristic,1.0014203000000002
+101864,Oblivion (2013),2013.0,futuristic,1.0004823
+6058,Final Destination 2 (2003),2003.0,death,0.9383322
+78467,Jonah Hex (2010),2010.0,death,0.9348583
+3409,Final Destination (2000),2000.0,death,0.93188715
+57538,Over Her Dead Body (2008),2008.0,death,0.931316
+43679,Final Destination 3 (2006),2006.0,death,0.9232887
+88932,Final Destination 5 (2011),2011.0,death,0.9161029
+71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",2009.0,death,0.91526496
+3563,"Crow: Salvation, The (2000)",2000.0,death,0.9140264
+47950,Hollywoodland (2006),2006.0,death,0.91236806
+52717,"Condemned, The (2007)",2007.0,death,0.9120841
+6187,"Life of David Gale, The (2003)",2003.0,death,0.91195583
+45662,"Omen, The (2006)",2006.0,death,0.9108181
+81512,Hereafter (2010),2010.0,death,0.9104173
+53349,Ten Canoes (2006),2006.0,death,0.9077245
+30894,White Noise (2005),2005.0,death,0.9063332
+79588,Charlie St. Cloud (2010),2010.0,death,0.906176
+53207,88 Minutes (2008),2008.0,death,0.9042604
+90943,Into the Abyss (2011),2011.0,death,0.9031197
+4758,Soul Survivors (a.k.a. The Killer Cut) (2001),2001.0,death,0.9029716
+6493,Alex and Emma (2003),2003.0,death,0.90177834
+56251,Futurama: Bender's Big Score (2007),2007.0,time travel,1.0205497
+60674,Stargate: Continuum (2008),2008.0,time travel,1.0194982
+57504,"Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006)",2006.0,time travel,1.0129006
+96610,Looper (2012),2012.0,time travel,1.0123357
+71106,Frequently Asked Questions About Time Travel (2009),2009.0,time travel,1.0116086
+3510,Frequency (2000),2000.0,time travel,1.0033636
+7254,The Butterfly Effect (2004),2004.0,time travel,0.9998667
+4738,Happy Accidents (2000),2000.0,time travel,0.9981146
+49278,Déjà Vu (Deja Vu) (2006),2006.0,time travel,0.9951463
+65642,"Timecrimes (Cronocrímenes, Los) (2007)",2007.0,time travel,0.9932854
+4878,Donnie Darko (2001),2001.0,time travel,0.98853886
+8914,Primer (2004),2004.0,time travel,0.98528254
+95088,Safety Not Guaranteed (2012),2012.0,time travel,0.9846468
+104374,About Time (2013),2013.0,time travel,0.9828427
+70599,"Time Traveler's Wife, The (2009)",2009.0,time travel,0.9808415
+27618,"Sound of Thunder, A (2005)",2005.0,time travel,0.9781828
+27788,"Jacket, The (2005)",2005.0,time travel,0.9759393
+6959,Timeline (2003),2003.0,time travel,0.97104263
+6537,Terminator 3: Rise of the Machines (2003),2003.0,time travel,0.9606476
+67799,The Butterfly Effect 3: Revelations (2009),2009.0,time travel,0.94507086
+55116,"Hunting Party, The (2007)",2007.0,war,0.9970465
+27816,Saints and Soldiers (2003),2003.0,war,0.99621964
+50068,Letters from Iwo Jima (2006),2006.0,war,0.99518573
+77833,Armadillo (2010),2010.0,war,0.99397624
+3753,"Patriot, The (2000)",2000.0,war,0.9935367
+40278,Jarhead (2005),2005.0,war,0.98859644
+4223,Enemy at the Gates (2001),2001.0,war,0.9865242
+5152,We Were Soldiers (2002),2002.0,war,0.9855881
+48783,Flags of Our Fathers (2006),2006.0,war,0.9853618
+40414,Joyeux Noël (Merry Christmas) (2005),2005.0,war,0.98525023
+5010,Black Hawk Down (2001),2001.0,war,0.98304105
+4967,No Man's Land (2001),2001.0,war,0.9771465
+107069,Lone Survivor (2013),2013.0,war,0.9744723
+5221,Harrison's Flowers (2000),2000.0,war,0.97422945
+51007,Days of Glory (Indigènes) (2006),2006.0,war,0.9740695
+8730,To End All Wars (2001),2001.0,war,0.9725766
+48319,Flyboys (2006),2006.0,war,0.9695296
+91126,War Horse (2011),2011.0,war,0.9691788
+33750,Innocent Voices (Voces inocentes) (2004),2004.0,war,0.9686334
+7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",2003.0,war,0.9669633
+44943,9/11 (2002),2002.0,terrorism,0.88723814
+62374,Body of Lies (2008),2008.0,terrorism,0.87649274
+54736,"Kingdom, The (2007)",2007.0,terrorism,0.8692136999999999
+55284,Rendition (2007),2007.0,terrorism,0.8687540000000001
+61352,Traitor (2008),2008.0,terrorism,0.8624799000000001
+77800,Four Lions (2010),2010.0,terrorism,0.86183894
+41997,Munich (2005),2005.0,terrorism,0.8596475
+7789,"11'09""01 - September 11 (2002)",2002.0,terrorism,0.8590268
+62081,Eagle Eye (2008),2008.0,terrorism,0.85692346
+58103,Vantage Point (2008),2008.0,terrorism,0.8499119
+41527,Paradise Now (2005),2005.0,terrorism,0.84601235
+78218,Unthinkable (2010),2010.0,terrorism,0.8408283999999999
+44191,V for Vendetta (2006),2006.0,terrorism,0.8402226
+5093,Collateral Damage (2002),2002.0,terrorism,0.83786905
+4901,Spy Game (2001),2001.0,terrorism,0.8375521
+56788,Charlie Wilson's War (2007),2007.0,terrorism,0.8341122999999999
+4344,Swordfish (2001),2001.0,terrorism,0.80593526
+98961,Zero Dark Thirty (2012),2012.0,terrorism,0.80120504
+67508,"Baader Meinhof Komplex, Der (2008)",2008.0,terrorism,0.7972003000000001
+101362,Olympus Has Fallen (2013),2013.0,terrorism,0.77542114
+68157,Inglourious Basterds (2009),2009.0,betrayal,1.0109043
+62374,Body of Lies (2008),2008.0,betrayal,1.0093211
+40959,"Ice Harvest, The (2005)",2005.0,betrayal,1.0089682
+8983,House of Flying Daggers (Shi mian mai fu) (2004),2004.0,betrayal,1.0083683
+4881,"Man Who Wasn't There, The (2001)",2001.0,betrayal,1.006811
+55805,Before the Devil Knows You're Dead (2007),2007.0,betrayal,1.0060438
+5959,Narc (2002),2002.0,betrayal,1.005892
+90647,Puss in Boots (2011),2011.0,betrayal,1.0055288
+4034,Traffic (2000),2000.0,betrayal,1.0053318000000002
+4235,Amores Perros (Love's a Bitch) (2000),2000.0,betrayal,1.0050690999999998
+44665,Lucky Number Slevin (2006),2006.0,betrayal,1.0044383
+5319,Nine Queens (Nueve reinas) (2000),2000.0,betrayal,1.0042472
+4889,Heist (2001),2001.0,betrayal,1.0041025
+51935,Shooter (2007),2007.0,betrayal,1.0039822
+61323,Burn After Reading (2008),2008.0,betrayal,1.0038378
+89753,Tinker Tailor Soldier Spy (2011),2011.0,betrayal,1.0038338
+78469,"A-Team, The (2010)",2010.0,betrayal,1.003742
+92507,Safe House (2012),2012.0,betrayal,1.0032933000000002
+5064,The Count of Monte Cristo (2002),2002.0,betrayal,1.002622
+6378,"Italian Job, The (2003)",2003.0,betrayal,1.0018312
+72378,2012 (2009),2009.0,disaster,0.9202255
+8361,"Day After Tomorrow, The (2004)",2004.0,disaster,0.89657617
+61348,Disaster Movie (2008),2008.0,disaster,0.8838550999999999
+6264,"Core, The (2003)",2003.0,disaster,0.8709648999999999
+45442,Poseidon (2006),2006.0,disaster,0.8461566999999999
+88932,Final Destination 5 (2011),2011.0,disaster,0.74906695
+99145,"Impossible, The (Imposible, Lo) (2012)",2012.0,disaster,0.7238163000000001
+6689,"Battle of Shaker Heights, The (2003)",2003.0,disaster,0.71928716
+71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",2009.0,disaster,0.7124984000000001
+43679,Final Destination 3 (2006),2006.0,disaster,0.7023308000000001
+8859,SuperBabies: Baby Geniuses 2 (2004),2004.0,disaster,0.70156455
+81782,Unstoppable (2010),2010.0,disaster,0.7014041
+6289,Ghosts of the Abyss (2003),2003.0,disaster,0.6983974000000001
+67197,Knowing (2009),2009.0,disaster,0.68668616
+84613,Sanctum (2011),2011.0,disaster,0.6806444
+46974,World Trade Center (2006),2006.0,disaster,0.66960037
+27618,"Sound of Thunder, A (2005)",2005.0,disaster,0.6684183000000001
+8495,Animal Factory (2000),2000.0,disaster,0.6683891
+64997,War of the Worlds (2005),2005.0,disaster,0.6650149999999999
+61257,I.O.U.S.A. (a.k.a. IOUSA) (2008),2008.0,disaster,0.66168
+58655,Drillbit Taylor (2008),2008.0,bullying,0.928108
+81257,In a Better World (Hævnen) (2010),2010.0,bullying,0.91683686
+87234,Submarine (2010),2010.0,bullying,0.91586435
+27700,Evil (Ondskan) (2003),2003.0,bullying,0.91339433
+105731,Carrie (2013),2013.0,bullying,0.9129003
+92420,Chronicle (2012),2012.0,bullying,0.9125488000000002
+65037,Ben X (2007),2007.0,bullying,0.91236246
+27838,Mean Creek (2004),2004.0,bullying,0.91015816
+59995,Boy A (2007),2007.0,bullying,0.90948844
+44840,"Benchwarmers, The (2006)",2006.0,bullying,0.9077246
+58652,CJ7 (Cheung Gong 7 hou) (2008),2008.0,bullying,0.9014319
+6701,Zero Day (2002),2002.0,bullying,0.8893049999999999
+96821,"Perks of Being a Wallflower, The (2012)",2012.0,bullying,0.8854245000000001
+80831,Let Me In (2010),2010.0,bullying,0.88532615
+52952,This Is England (2006),2006.0,bullying,0.88451374
+7773,"Bang, Bang, You're Dead (2002)",2002.0,bullying,0.88327575
+5465,All About Lily Chou-Chou (Riri Shushu no subete) (2001),2001.0,bullying,0.880697
+4815,Hearts in Atlantis (2001),2001.0,bullying,0.8784784999999999
+47124,"Ant Bully, The (2006)",2006.0,bullying,0.87538075
+7451,Mean Girls (2004),2004.0,bullying,0.8681226000000001
+48518,"Texas Chainsaw Massacre: The Beginning, The (2006)",2006.0,violence,1.0002978
+32587,Sin City (2005),2005.0,violence,0.9999597
+3899,Circus (2000),2000.0,violence,0.9967724
+7438,Kill Bill: Vol. 2 (2004),2004.0,violence,0.98811674
+58964,Inside (À l'intérieur) (2007),2007.0,violence,0.9879198
+27773,Old Boy (2003),2003.0,violence,0.9874641
+7022,Battle Royale (Batoru rowaiaru) (2000),2000.0,violence,0.9855418
+37733,"History of Violence, A (2005)",2005.0,violence,0.98546815
+55118,Eastern Promises (2007),2007.0,violence,0.9840629
+57528,Rambo (Rambo 4) (2008),2008.0,violence,0.9818684
+4011,Snatch (2000),2000.0,violence,0.98128104
+48516,"Departed, The (2006)",2006.0,violence,0.9807919
+72129,Saw VI (2009),2009.0,violence,0.97967386
+4640,Brother (2000),2000.0,violence,0.97952867
+6874,Kill Bill: Vol. 1 (2003),2003.0,violence,0.9793639
+55577,Saw IV (2007),2007.0,violence,0.97899556
+99114,Django Unchained (2012),2012.0,violence,0.9783108
+37731,Green Street Hooligans (a.k.a. Hooligans) (2005),2005.0,violence,0.97552824
+93838,The Raid: Redemption (2011),2011.0,violence,0.9748734
+54787,Death Sentence (2007),2007.0,violence,0.97374594
+97923,Flight (2012),2012.0,alcoholism,1.024134
+38600,Factotum (2005),2005.0,alcoholism,1.0215911
+103539,The Spectacular Now (2013),2013.0,alcoholism,1.0146198
+73023,Crazy Heart (2009),2009.0,alcoholism,1.0139323
+87298,Everything Must Go (2010),2010.0,alcoholism,1.0096909
+4017,Pollock (2000),2000.0,alcoholism,1.0093373
+4729,Aberdeen (2000),2000.0,alcoholism,1.0074021999999998
+54331,You Kill Me (2007),2007.0,alcoholism,1.0003331
+84775,Submarino (2010),2010.0,alcoholism,0.99981
+107141,Saving Mr. Banks (2013),2013.0,alcoholism,0.99762356
+106841,August: Osage County (2013),2013.0,alcoholism,0.989599
+91622,Young Adult (2011),2011.0,alcoholism,0.97625554
+37855,"Prize Winner of Defiance Ohio, The (2005)",2005.0,alcoholism,0.9657788
+3534,28 Days (2000),2000.0,alcoholism,0.96153533
+60758,Brideshead Revisited (2008),2008.0,alcoholism,0.95821977
+91128,"Rum Diary, The (2011)",2011.0,alcoholism,0.95105517
+90357,Tyrannosaur (2011),2011.0,alcoholism,0.9342017
+31785,Frozen Land (Paha maa) (2005),2005.0,alcoholism,0.923337
+96728,"Master, The (2012)",2012.0,alcoholism,0.9151101
+30848,"Love Song for Bobby Long, A (2004)",2004.0,alcoholism,0.8801638
+6537,Terminator 3: Rise of the Machines (2003),2003.0,nuclear war,0.8078735
+8134,Wonderful Days (a.k.a. Sky Blue) (2003),2003.0,nuclear war,0.7800316999999999
+60684,Watchmen (2009),2009.0,nuclear war,0.7398915
+8367,"Time of the Wolf, The (Le temps du loup) (2003)",2003.0,nuclear war,0.7219279000000001
+99813,"Batman: The Dark Knight Returns, Part 2 (2013)",2013.0,nuclear war,0.721328
+86835,Priest (2011),2011.0,nuclear war,0.6741786999999999
+61210,Mutant Chronicles (2008),2008.0,nuclear war,0.66811514
+48774,Children of Men (2006),2006.0,nuclear war,0.65829337
+55232,Resident Evil: Extinction (2007),2007.0,nuclear war,0.6549624
+101076,G.I. Joe: Retaliation (2013),2013.0,nuclear war,0.64799535
+87232,X-Men: First Class (2011),2011.0,nuclear war,0.62278867
+31184,Appleseed (Appurushîdo) (2004),2004.0,nuclear war,0.59580255
+6790,Avalon (2001),2001.0,nuclear war,0.5731354000000001
+4781,Megiddo: The Omega Code 2 (2001),2001.0,nuclear war,0.54582155
+5523,"Adventures of Pluto Nash, The (2002)",2002.0,nuclear war,0.52196896
+6934,"Matrix Revolutions, The (2003)",2003.0,nuclear war,0.4999361
+91630,Mission: Impossible - Ghost Protocol (2011),2011.0,nuclear war,0.49925053
+68237,Moon (2009),2009.0,nuclear war,0.49420547
+68791,Terminator Salvation (2009),2009.0,nuclear war,0.47973704
+58297,Doomsday (2008),2008.0,nuclear war,0.47549415
+64957,"Curious Case of Benjamin Button, The (2008)",2008.0,aging,0.9286456
+99220,Quartet (2012),2012.0,aging,0.88775444
+7149,Something's Gotta Give (2003),2003.0,aging,0.8347280999999999
+56333,"Savages, The (2007)",2007.0,aging,0.83458185
+97673,56 Up (2012),2012.0,aging,0.80770326
+98056,Amour (2012),2012.0,aging,0.80686665
+50274,Venus (2006),2006.0,aging,0.80022514
+78774,Solitary Man (2009),2009.0,aging,0.76201344
+64839,"Wrestler, The (2008)",2008.0,aging,0.75956607
+8365,"Mother, The (2003)",2003.0,aging,0.74810135
+55110,December Boys (2007),2007.0,aging,0.7365997
+6954,"Barbarian Invasions, The (Les invasions barbares) (2003)",2003.0,aging,0.73096335
+54094,Driving Lessons (2006),2006.0,aging,0.7262466
+105197,Nebraska (2013),2013.0,aging,0.7261907
+94070,"Best Exotic Marigold Hotel, The (2011)",2011.0,aging,0.724903
+59590,Young at Heart (a.k.a. Young@Heart) (2007),2007.0,aging,0.719679
+38097,Dumplings (Gaau ji) (2004),2004.0,aging,0.7146951
+6755,Bubba Ho-tep (2002),2002.0,aging,0.7065563
+47778,Quinceañera (2006),2006.0,aging,0.7020031
+62235,Red (2008),2008.0,aging,0.6978506
+90357,Tyrannosaur (2011),2011.0,bleak,1.0364951
+63072,"Road, The (2009)",2009.0,bleak,1.0239771999999998
+27834,"Return, The (Vozvrashcheniye) (2003)",2003.0,bleak,1.0182523
+64197,Hunger (2008),2008.0,bleak,1.0152353
+48774,Children of Men (2006),2006.0,bleak,1.0145458
+78574,Winter's Bone (2010),2010.0,bleak,1.0137696
+8950,The Machinist (2004),2004.0,bleak,1.0137637
+55444,Control (2007),2007.0,bleak,1.0089302
+64839,"Wrestler, The (2008)",2008.0,bleak,0.99712133
+89072,Stake Land (2010),2010.0,bleak,0.99483323
+5329,"Salton Sea, The (2002)",2002.0,bleak,0.98942614
+32587,Sin City (2005),2005.0,bleak,0.9890188
+4847,Fat Girl (À ma soeur!) (2001),2001.0,bleak,0.9851531
+55069,"4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile) (2007)",2007.0,bleak,0.9767164
+81819,Biutiful (2010),2010.0,bleak,0.97454107
+69134,Antichrist (2009),2009.0,bleak,0.97410643
+5959,Narc (2002),2002.0,bleak,0.96905136
+78039,Blue Valentine (2010),2010.0,bleak,0.95839906
+90376,We Need to Talk About Kevin (2011),2011.0,bleak,0.9523876
+3949,Requiem for a Dream (2000),2000.0,bleak,0.9478557
+54116,First Snow (2006),2006.0,suspense,0.92780006
+5266,Panic Room (2002),2002.0,suspense,0.9247197
+104879,Prisoners (2013),2013.0,suspense,0.9218379
+6323,Identity (2003),2003.0,suspense,0.91848207
+8957,Saw (2004),2004.0,suspense,0.9159484
+5517,Nightcap (Merci pour le chocolat) (2000),2000.0,suspense,0.9158344
+6508,"Bank, The (2001)",2001.0,suspense,0.9148655
+48780,"Prestige, The (2006)",2006.0,suspense,0.91075075
+7254,The Butterfly Effect (2004),2004.0,suspense,0.9105433
+39446,Saw II (2005),2005.0,suspense,0.90658593
+3994,Unbreakable (2000),2000.0,suspense,0.90400946
+7152,"Statement, The (2003)",2003.0,suspense,0.90380824
+5502,Signs (2002),2002.0,suspense,0.903744
+5824,Liberty Stands Still (2002),2002.0,suspense,0.9022645
+48516,"Departed, The (2006)",2006.0,suspense,0.9015838
+4770,"Glass House, The (2001)",2001.0,suspense,0.9000235999999999
+4077,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)",2000.0,suspense,0.8996254000000001
+4723,"Deep End, The (2001)",2001.0,suspense,0.8965056999999998
+78218,Unthinkable (2010),2010.0,suspense,0.8955684000000002
+4052,Antitrust (2001),2001.0,suspense,0.8949543
+68954,Up (2009),2009.0,heartwarming,0.9138601
+92259,Intouchables (2011),2011.0,heartwarming,0.90899396
+88810,"Help, The (2011)",2011.0,heartwarming,0.8715421999999998
+31435,Rory O'Shea Was Here (Inside I'm Dancing) (2004),2004.0,heartwarming,0.8419483
+35015,Duma (2005),2005.0,heartwarming,0.8375299999999999
+91869,Being Elmo: A Puppeteer's Journey (2011),2011.0,heartwarming,0.83633494
+47099,"Pursuit of Happyness, The (2006)",2006.0,heartwarming,0.83546436
+27790,Millions (2004),2004.0,heartwarming,0.83079505
+98491,Paperman (2012),2012.0,heartwarming,0.82822216
+6760,In This World (2002),2002.0,heartwarming,0.82785535
+72641,"Blind Side, The  (2009)",2009.0,heartwarming,0.8275969999999999
+8530,Dear Frankie (2004),2004.0,heartwarming,0.8167397
+3967,Billy Elliot (2000),2000.0,heartwarming,0.80819166
+43396,"World's Fastest Indian, The (2005)",2005.0,heartwarming,0.80558884
+50872,Ratatouille (2007),2007.0,heartwarming,0.80543375
+7139,In America (2002),2002.0,heartwarming,0.804669
+74787,My Name is Khan (2010),2010.0,heartwarming,0.8038533
+8809,Danny Deckchair (2003),2003.0,heartwarming,0.8038310000000001
+60069,WALL·E (2008),2008.0,heartwarming,0.80182564
+6377,Finding Nemo (2003),2003.0,heartwarming,0.80101013
+54962,"Nines, The (2007)",2007.0,thought-provoking,0.954527
+95058,Cosmopolis  (2012),2012.0,thought-provoking,0.9396081
+86290,American: The Bill Hicks Story (2009),2009.0,thought-provoking,0.93799436
+39869,Manderlay (2005),2005.0,thought-provoking,0.9307481
+84273,Zeitgeist: Moving Forward (2011),2011.0,thought-provoking,0.92550635
+5364,Unfaithful (2002),2002.0,thought-provoking,0.9237293
+37720,"Exorcism of Emily Rose, The (2005)",2005.0,thought-provoking,0.9123925
+5014,I Am Sam (2001),2001.0,thought-provoking,0.9121362
+51660,"Ultimate Gift, The (2006)",2006.0,thought-provoking,0.903643
+7458,Troy (2004),2004.0,thought-provoking,0.902073
+5293,Changing Lanes (2002),2002.0,thought-provoking,0.89977586
+89260,Project Nim (2011),2011.0,thought-provoking,0.8963585999999999
+80969,Never Let Me Go (2010),2010.0,thought-provoking,0.8928528
+50011,"Bothersome Man, The (Brysomme mannen, Den) (2006)",2006.0,thought-provoking,0.8923392
+8783,"Village, The (2004)",2004.0,thought-provoking,0.88393927
+67197,Knowing (2009),2009.0,thought-provoking,0.8743837
+3298,Boiler Room (2000),2000.0,thought-provoking,0.8695779
+37475,"Unfinished Life, An (2005)",2005.0,thought-provoking,0.8689921999999999
+3969,Pay It Forward (2000),2000.0,thought-provoking,0.8675306
+8931,Born Rich (2003),2003.0,thought-provoking,0.86744547
+5481,Austin Powers in Goldmember (2002),2002.0,hilarious,0.9532205
+56012,"Evening with Kevin Smith 2: Evening Harder, An (2006)",2006.0,hilarious,0.95153856
+61132,Tropic Thunder (2008),2008.0,hilarious,0.9512656
+52245,Blades of Glory (2007),2007.0,hilarious,0.9457916
+5785,Jackass: The Movie (2002),2002.0,hilarious,0.94520736
+4816,Zoolander (2001),2001.0,hilarious,0.9447926
+86345,Louis C.K.: Hilarious (2010),2010.0,hilarious,0.943949
+72171,Black Dynamite (2009),2009.0,hilarious,0.9429226
+94677,"Dictator, The (2012)",2012.0,hilarious,0.94172
+5401,Undercover Brother (2002),2002.0,hilarious,0.9415177
+8528,Dodgeball: A True Underdog Story (2004),2004.0,hilarious,0.9411899
+8641,Anchorman: The Legend of Ron Burgundy (2004),2004.0,hilarious,0.94113505
+81156,Jackass 3D (2010),2010.0,hilarious,0.94081855
+79592,"Other Guys, The (2010)",2010.0,hilarious,0.93997407
+60756,Step Brothers (2008),2008.0,hilarious,0.9394585
+48322,Jackass Number Two (2006),2006.0,hilarious,0.93936765
+93510,21 Jump Street (2012),2012.0,hilarious,0.9388809
+6188,Old School (2003),2003.0,hilarious,0.9381318
+4974,Not Another Teen Movie (2001),2001.0,hilarious,0.93758786
+86347,Louis C.K.: Chewed Up (2008),2008.0,hilarious,0.9359325
+74787,My Name is Khan (2010),2010.0,touching,0.8968241
+5014,I Am Sam (2001),2001.0,touching,0.88284755
+74324,Temple Grandin (2010),2010.0,touching,0.88162124
+47099,"Pursuit of Happyness, The (2006)",2006.0,touching,0.8812134
+106920,Her (2013),2013.0,touching,0.88001156
+55280,Lars and the Real Girl (2007),2007.0,touching,0.87907004
+68954,Up (2009),2009.0,touching,0.87866855
+92259,Intouchables (2011),2011.0,touching,0.8780787
+6760,In This World (2002),2002.0,touching,0.87637544
+89774,Warrior (2011),2011.0,touching,0.8755188
+88810,"Help, The (2011)",2011.0,touching,0.87448204
+31435,Rory O'Shea Was Here (Inside I'm Dancing) (2004),2004.0,touching,0.87430155
+64993,5 Centimeters per Second (Byôsoku 5 senchimêtoru) (2007),2007.0,touching,0.86919975
+104272,Blackfish (2013),2013.0,touching,0.8674059999999999
+73290,Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009),2009.0,touching,0.8626741
+69757,(500) Days of Summer (2009),2009.0,touching,0.8617562
+6770,My Life Without Me (2003),2003.0,touching,0.86003375
+27803,"Sea Inside, The (Mar adentro) (2004)",2004.0,touching,0.850569
+71899,Mary and Max (2009),2009.0,touching,0.8380252
+89864,50/50 (2011),2011.0,touching,0.8360115
+8950,The Machinist (2004),2004.0,weird,1.0407358
+89837,Kill List (2011),2011.0,weird,1.0395721
+74791,"Town Called Panic, A (Panique au village) (2009)",2009.0,weird,1.03808
+5071,Maelström (2000),2000.0,weird,1.036541
+5477,Sex and Lucia (Lucía y el sexo) (2001),2001.0,weird,1.0363353000000002
+48082,"Science of Sleep, The (La science des rêves) (2006)",2006.0,weird,1.0356013000000002
+69951,"Imaginarium of Doctor Parnassus, The (2009)",2009.0,weird,1.0302354
+90376,We Need to Talk About Kevin (2011),2011.0,weird,1.0287561
+56003,Southland Tales (2006),2006.0,weird,1.0284655
+100556,"Act of Killing, The (2012)",2012.0,weird,1.0281187
+62203,Martyrs (2008),2008.0,weird,1.0270045
+42632,Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005),2005.0,weird,1.0261354
+37857,MirrorMask (2005),2005.0,weird,1.0252886
+7361,Eternal Sunshine of the Spotless Mind (2004),2004.0,weird,1.0248206
+82041,"Loved Ones, The (2009)",2009.0,weird,1.0239081
+4873,Waking Life (2001),2001.0,weird,1.0228953
+71304,Thirst (Bakjwi) (2009),2009.0,weird,1.0223441999999998
+5909,Visitor Q (Bizita Q) (2001),2001.0,weird,1.0217967
+51709,"Host, The (Gwoemul) (2006)",2006.0,weird,1.0216575
+27716,"Green Butchers, The (Grønne slagtere, De) (2003)",2003.0,weird,1.0215263
+6365,"Matrix Reloaded, The (2003)",2003.0,visually stunning,1.0165296
+6934,"Matrix Revolutions, The (2003)",2003.0,visually stunning,1.0103984
+4873,Waking Life (2001),2001.0,visually stunning,1.0014418
+52328,Sunshine (2007),2007.0,visually stunning,1.0014174999999998
+104841,Gravity (2013),2013.0,visually stunning,1.0014029
+5903,Equilibrium (2002),2002.0,visually stunning,1.0011677
+7361,Eternal Sunshine of the Spotless Mind (2004),2004.0,visually stunning,1.0009875
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",2000.0,visually stunning,1.0007668
+59387,"Fall, The (2006)",2006.0,visually stunning,0.99957323
+7090,Hero (Ying xiong) (2002),2002.0,visually stunning,0.9992515
+48043,"Fountain, The (2006)",2006.0,visually stunning,0.99876213
+72998,Avatar (2009),2009.0,visually stunning,0.99868596
+106920,Her (2013),2013.0,visually stunning,0.99789965
+37857,MirrorMask (2005),2005.0,visually stunning,0.99782526
+4144,In the Mood For Love (Fa yeung nin wa) (2000),2000.0,visually stunning,0.9966202
+50005,Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006),2006.0,visually stunning,0.99473834
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2001.0,visually stunning,0.9933077
+64993,5 Centimeters per Second (Byôsoku 5 senchimêtoru) (2007),2007.0,visually stunning,0.99312866
+79132,Inception (2010),2010.0,visually stunning,0.99108255
+82461,Tron: Legacy (2010),2010.0,visually stunning,0.99044394
+80969,Never Let Me Go (2010),2010.0,depressing,0.95197713
+7158,House of Sand and Fog (2003),2003.0,depressing,0.95079935
+39444,"Weather Man, The (2005)",2005.0,depressing,0.94778824
+5505,"Good Girl, The (2002)",2002.0,depressing,0.9455489
+63072,"Road, The (2009)",2009.0,depressing,0.94409585
+3949,Requiem for a Dream (2000),2000.0,depressing,0.94324934
+7572,Wit (2001),2001.0,depressing,0.9374447
+93790,Detachment (2011),2011.0,depressing,0.93568575
+6291,Lilya 4-Ever (Lilja 4-ever) (2002),2002.0,depressing,0.9350004
+40887,Lonesome Jim (2005),2005.0,depressing,0.9344313
+30707,Million Dollar Baby (2004),2004.0,depressing,0.93405735
+103980,Blue Jasmine (2013),2013.0,depressing,0.93083084
+6002,Love Liza (2002),2002.0,depressing,0.92397535
+78039,Blue Valentine (2010),2010.0,depressing,0.91764164
+55444,Control (2007),2007.0,depressing,0.9046316
+55814,"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)",2007.0,depressing,0.89843833
+71429,World's Greatest Dad (2009),2009.0,depressing,0.89426816
+90376,We Need to Talk About Kevin (2011),2011.0,depressing,0.8894527
+106766,Inside Llewyn Davis (2013),2013.0,depressing,0.8884306000000001
+65188,Dear Zachary: A Letter to a Son About His Father (2008),2008.0,depressing,0.8879684000000001
+6880,"Texas Chainsaw Massacre, The (2003)",2003.0,scary,1.0241783000000002
+8947,"Grudge, The (2004)",2004.0,scary,1.0147127
+5679,"Ring, The (2002)",2002.0,scary,1.0125715
+71379,Paranormal Activity (2009),2009.0,scary,1.0106254
+104908,Insidious: Chapter 2 (2013),2013.0,scary,1.0103945
+92422,"Woman in Black, The (2012)",2012.0,scary,1.0077268
+97188,Sinister (2012),2012.0,scary,1.0077045
+99912,Mama (2013),2013.0,scary,1.006182
+85788,Insidious (2010),2010.0,scary,1.0058331
+68952,Drag Me to Hell (2009),2009.0,scary,1.0051824
+103688,"Conjuring, The (2013)",2013.0,scary,1.004274
+57274,[REC] (2007),2007.0,scary,1.0022432
+40732,"Descent, The (2005)",2005.0,scary,1.0016845
+4725,Session 9 (2001),2001.0,scary,1.0015296
+4720,"Others, The (2001)",2001.0,scary,0.9992455
+53953,1408 (2007),2007.0,scary,0.99826276
+27584,Dead End (2003),2003.0,scary,0.9975419
+7982,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",2003.0,scary,0.99617577
+5502,Signs (2002),2002.0,scary,0.99585354
+40617,Creep (2004),2004.0,scary,0.9785178
+40732,"Descent, The (2005)",2005.0,claustrophobic,1.0093745
+78088,Buried (2010),2010.0,claustrophobic,1.0086701
+57274,[REC] (2007),2007.0,claustrophobic,1.0036714
+7982,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",2003.0,claustrophobic,1.0010588
+78349,Exam (2009),2009.0,claustrophobic,0.9728968
+8957,Saw (2004),2004.0,claustrophobic,0.94799626
+35957,Red Eye (2005),2005.0,claustrophobic,0.94726753
+74750,[REC]² (2009),2009.0,claustrophobic,0.9368515
+53953,1408 (2007),2007.0,claustrophobic,0.9327084
+27788,"Jacket, The (2005)",2005.0,claustrophobic,0.9267254
+81591,Black Swan (2010),2010.0,claustrophobic,0.9261874
+44974,Hard Candy (2005),2005.0,claustrophobic,0.9258368
+8860,Cellular (2004),2004.0,claustrophobic,0.92003095
+6281,Phone Booth (2002),2002.0,claustrophobic,0.91746783
+8950,The Machinist (2004),2004.0,claustrophobic,0.9162166
+6197,Spider (2002),2002.0,claustrophobic,0.906922
+71135,Pandorum (2009),2009.0,claustrophobic,0.90213454
+40617,Creep (2004),2004.0,claustrophobic,0.9014946
+68237,Moon (2009),2009.0,claustrophobic,0.9004004000000001
+53127,Bug (2007),2007.0,claustrophobic,0.90019584
+6291,Lilya 4-Ever (Lilja 4-ever) (2002),2002.0,sad,0.9320791
+30707,Million Dollar Baby (2004),2004.0,sad,0.9298934
+80969,Never Let Me Go (2010),2010.0,sad,0.9188814
+74787,My Name is Khan (2010),2010.0,sad,0.91597736
+71462,"Cove, The (2009)",2009.0,sad,0.8962493
+71899,Mary and Max (2009),2009.0,sad,0.8941064000000001
+95199,What to Expect When You're Expecting (2012),2012.0,sad,0.8601136
+3949,Requiem for a Dream (2000),2000.0,sad,0.8353847
+7158,House of Sand and Fog (2003),2003.0,sad,0.8336450999999999
+7141,My Flesh and Blood (2003),2003.0,sad,0.83328915
+87304,Beginners (2010),2010.0,sad,0.82949305
+104272,Blackfish (2013),2013.0,sad,0.8198873999999999
+93790,Detachment (2011),2011.0,sad,0.8082323
+55444,Control (2007),2007.0,sad,0.79779184
+78039,Blue Valentine (2010),2010.0,sad,0.79612994
+64993,5 Centimeters per Second (Byôsoku 5 senchimêtoru) (2007),2007.0,sad,0.7958951
+5995,"Pianist, The (2002)",2002.0,sad,0.7917261
+73290,Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009),2009.0,sad,0.7883755
+8587,Mayor of the Sunset Strip (2003),2003.0,sad,0.78787327
+6368,Cinemania (2002),2002.0,sad,0.7860923000000001
+5014,I Am Sam (2001),2001.0,emotional,0.9631157
+6760,In This World (2002),2002.0,emotional,0.95516205
+88810,"Help, The (2011)",2011.0,emotional,0.95165956
+74787,My Name is Khan (2010),2010.0,emotional,0.949033
+7572,Wit (2001),2001.0,emotional,0.9473959
+42021,"White Countess, The (2005)",2005.0,emotional,0.9470593
+74324,Temple Grandin (2010),2010.0,emotional,0.9465624
+30707,Million Dollar Baby (2004),2004.0,emotional,0.9458324
+80969,Never Let Me Go (2010),2010.0,emotional,0.9438895
+37475,"Unfinished Life, An (2005)",2005.0,emotional,0.9405525
+91548,Life in a Day (2011),2011.0,emotional,0.94013906
+104272,Blackfish (2013),2013.0,emotional,0.9399272
+3969,Pay It Forward (2000),2000.0,emotional,0.9388534
+65188,Dear Zachary: A Letter to a Son About His Father (2008),2008.0,emotional,0.9385811
+47099,"Pursuit of Happyness, The (2006)",2006.0,emotional,0.93551195
+59018,"Visitor, The (2007)",2007.0,emotional,0.9336798
+72479,"Messenger, The (2009)",2009.0,emotional,0.93354905
+89774,Warrior (2011),2011.0,emotional,0.93177927
+68954,Up (2009),2009.0,emotional,0.9246992
+31435,Rory O'Shea Was Here (Inside I'm Dancing) (2004),2004.0,emotional,0.9238728
+62912,High School Musical 3: Senior Year (2008),2008.0,musical,1.013863
+46062,High School Musical (2006),2006.0,musical,1.0126866
+61123,High School Musical 2 (2007),2007.0,musical,1.0112112
+42002,"Producers, The (2005)",2005.0,musical,1.0083648
+58107,Step Up 2 the Streets (2008),2008.0,musical,1.0072167
+71537,Fame (2009),2009.0,musical,1.0056318000000002
+63393,Camp Rock (2008),2008.0,musical,1.0055834
+30818,Beyond the Sea (2004),2004.0,musical,1.005278
+27876,Schultze Gets the Blues (2003),2003.0,musical,1.0038091999999998
+73681,"Concert, Le (2009)",2009.0,musical,1.0032448
+44889,Reefer Madness: The Movie Musical (2005),2005.0,musical,1.0029694
+80222,Step Up 3D (2010),2010.0,musical,1.0023812
+27879,DiG! (2004),2004.0,musical,1.0016201999999998
+91386,Happy Feet Two (2011),2011.0,musical,1.0011218000000002
+5991,Chicago (2002),2002.0,musical,1.000682
+73042,Alvin and the Chipmunks: The Squeakquel (2009),2009.0,musical,0.999648
+33838,Rize (2005),2005.0,musical,0.9995214
+52975,Hairspray (2007),2007.0,musical,0.9992541
+4054,Save the Last Dance (2001),2001.0,musical,0.9986236
+68838,Every Little Step (2008),2008.0,musical,0.9983412
+76210,Defendor (2009),2009.0,superhero,1.0277345
+85401,Super (2010),2010.0,superhero,1.0194376
+58559,"Dark Knight, The (2008)",2008.0,superhero,1.0097916999999998
+34332,Sky High (2005),2005.0,superhero,1.0079244
+92420,Chronicle (2012),2012.0,superhero,1.0072137
+103659,Justice League: The Flashpoint Paradox (2013),2013.0,superhero,1.0065855
+92938,Ghost Rider: Spirit of Vengeance (2012),2012.0,superhero,1.0061527
+8636,Spider-Man 2 (2004),2004.0,superhero,1.0053289
+5349,Spider-Man (2002),2002.0,superhero,1.0048434000000002
+76251,Kick-Ass (2010),2010.0,superhero,1.0042958
+7439,"Punisher, The (2004)",2004.0,superhero,1.0042898999999998
+59315,Iron Man (2008),2008.0,superhero,1.0041269
+8961,"Incredibles, The (2004)",2004.0,superhero,1.0040472
+57640,Hellboy II: The Golden Army (2008),2008.0,superhero,1.0036193000000002
+61401,"Spirit, The (2008)",2008.0,superhero,1.00309
+6541,"League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)",2003.0,superhero,1.0028615
+71129,Green Lantern: First Flight (2009),2009.0,superhero,1.0026455
+91529,"Dark Knight Rises, The (2012)",2012.0,superhero,1.0025635
+60074,Hancock (2008),2008.0,superhero,1.0020418
+47384,Zoom (2006),2006.0,superhero,1.0019011
+54372,Tell No One (Ne le dis à personne) (2006),2006.0,thriller,1.007708
+68159,State of Play (2009),2009.0,thriller,1.0043576
+87028,"Roommate, The (2011)",2011.0,thriller,0.99791884
+27821,"Interpreter, The (2005)",2005.0,thriller,0.99662423
+8798,Collateral (2004),2004.0,thriller,0.9961587
+104879,Prisoners (2013),2013.0,thriller,0.99508107
+35957,Red Eye (2005),2005.0,thriller,0.99404705
+5266,Panic Room (2002),2002.0,thriller,0.991797
+4814,Don't Say a Word (2001),2001.0,thriller,0.98732686
+6281,Phone Booth (2002),2002.0,thriller,0.9867281
+4383,"Crimson Rivers, The (Rivières pourpres, Les) (2000)",2000.0,thriller,0.9856169
+84601,Unknown (2011),2011.0,thriller,0.98465645
+81788,"Next Three Days, The (2010)",2010.0,thriller,0.98310864
+53129,Mr. Brooks (2007),2007.0,thriller,0.98218787
+96857,Red Lights (2012),2012.0,thriller,0.9740529
+52458,Disturbia (2007),2007.0,thriller,0.97280204
+97304,Argo (2012),2012.0,thriller,0.9704274
+4238,Along Came a Spider (2001),2001.0,thriller,0.96461976
+89629,Point Blank (À bout portant) (2010),2010.0,thriller,0.96201
+71573,Whiteout (2009),2009.0,thriller,0.9512825
+41769,Mozart and the Whale (2005),2005.0,romance,0.9506676
+32300,D.E.B.S. (2004),2004.0,romance,0.94692767
+5051,Italian for Beginners (Italiensk for begyndere) (2000),2000.0,romance,0.94365156
+3454,Whatever It Takes (2000),2000.0,romance,0.93855476
+6886,Beyond Borders (2003),2003.0,romance,0.9378258
+105211,Enough Said (2013),2013.0,romance,0.9370043
+7375,"Prince & Me, The (2004)",2004.0,romance,0.93608844
+3512,Return to Me (2000),2000.0,romance,0.9347191
+56671,"Go-Getter, The (2007)",2007.0,romance,0.93208134
+50792,Catch and Release (2006),2006.0,romance,0.9315736
+5943,Maid in Manhattan (2002),2002.0,romance,0.9293374
+36525,Just Like Heaven (2005),2005.0,romance,0.92919564
+95135,Your Sister's Sister (2011),2011.0,romance,0.9286425
+86548,Water for Elephants (2011),2011.0,romance,0.9283706
+7320,Dirty Dancing: Havana Nights (2004),2004.0,romance,0.92620087
+4259,"Luzhin Defence, The (2000)",2000.0,romance,0.9257314
+67788,Confessions of a Shopaholic (2009),2009.0,romance,0.92567146
+48319,Flyboys (2006),2006.0,romance,0.9256511
+43930,Just My Luck (2006),2006.0,romance,0.92554307
+62137,Nights in Rodanthe (2008),2008.0,romance,0.9253354
+81932,"Fighter, The (2010)",2010.0,drama,0.9166
+27432,"Beautiful Country, The (2004)",2004.0,drama,0.91619337
+81845,"King's Speech, The (2010)",2010.0,drama,0.9157151
+82589,Mother and Child (2009),2009.0,drama,0.9150996
+6192,Open Hearts (Elsker dig for evigt) (2002),2002.0,drama,0.9134706
+96829,"Hunt, The (Jagten) (2012)",2012.0,drama,0.9134358
+106100,Dallas Buyers Club (2013),2013.0,drama,0.9088042
+6870,Mystic River (2003),2003.0,drama,0.90838873
+97921,Silver Linings Playbook (2012),2012.0,drama,0.9065281
+38388,Goal! The Dream Begins (Goal!) (2005),2005.0,drama,0.90506387
+32584,"Ballad of Jack and Rose, The (2005)",2005.0,drama,0.9049194
+91077,"Descendants, The (2011)",2011.0,drama,0.90357053
+66509,Funny People (2009),2009.0,drama,0.90356994
+97304,Argo (2012),2012.0,drama,0.90125775
+89804,"Ides of March, The (2011)",2011.0,drama,0.90080893
+7158,House of Sand and Fog (2003),2003.0,drama,0.9004278
+31705,Beautiful Boxer (2003),2003.0,drama,0.9002522
+6776,Lagaan: Once Upon a Time in India (2001),2001.0,drama,0.8974754999999999
+89759,"Separation, A (Jodaeiye Nader az Simin) (2011)",2011.0,drama,0.8970461
+6689,"Battle of Shaker Heights, The (2003)",2003.0,drama,0.89682317
+84980,Lapland Odyssey (Napapiirin sankarit) (2010),2010.0,comedy,1.0201793
+8528,Dodgeball: A True Underdog Story (2004),2004.0,comedy,1.0147269
+6373,Bruce Almighty (2003),2003.0,comedy,1.0123582
+4718,American Pie 2 (2001),2001.0,comedy,1.0123326
+3948,Meet the Parents (2000),2000.0,comedy,1.0117793
+7293,50 First Dates (2004),2004.0,comedy,1.010645
+4701,Rush Hour 2 (2001),2001.0,comedy,1.0092124
+34162,Wedding Crashers (2005),2005.0,comedy,1.0086849
+95720,"Watch, The (2012)",2012.0,comedy,1.007927
+5283,National Lampoon's Van Wilder (2002),2002.0,comedy,1.0076288
+6287,Anger Management (2003),2003.0,comedy,1.0051754000000002
+63131,Role Models (2008),2008.0,comedy,1.0045247
+31685,Hitch (2005),2005.0,comedy,1.0042944
+6188,Old School (2003),2003.0,comedy,1.0041406
+93510,21 Jump Street (2012),2012.0,comedy,1.0039263
+7325,Starsky & Hutch (2004),2004.0,comedy,1.0039175
+84772,Paul (2011),2011.0,comedy,1.0038221
+35836,"40-Year-Old Virgin, The (2005)",2005.0,comedy,1.0035757
+7173,Along Came Polly (2004),2004.0,comedy,1.0028161
+79134,Grown Ups (2010),2010.0,comedy,1.0019823
+45722,Pirates of the Caribbean: Dead Man's Chest (2006),2006.0,adventure,1.0049789
+97057,Kon-Tiki (2012),2012.0,adventure,1.0047222
+7324,Hidalgo (2004),2004.0,adventure,1.0045046999999998
+106489,"Hobbit: The Desolation of Smaug, The (2013)",2013.0,adventure,1.0034194
+98809,"Hobbit: An Unexpected Journey, The (2012)",2012.0,adventure,1.001923
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),2003.0,adventure,1.0009825
+78105,Prince of Persia: The Sands of Time (2010),2010.0,adventure,1.0008591
+6536,Sinbad: Legend of the Seven Seas (2003),2003.0,adventure,0.9911072
+4270,"Mummy Returns, The (2001)",2001.0,adventure,0.9873699
+59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),2008.0,adventure,0.9869802
+8534,Two Brothers (Deux frères) (2004),2004.0,adventure,0.98310566
+35015,Duma (2005),2005.0,adventure,0.9806491
+43917,Eight Below (2006),2006.0,adventure,0.97266555
+62970,Tin Man (2007),2007.0,adventure,0.9712844
+5816,Harry Potter and the Chamber of Secrets (2002),2002.0,adventure,0.9701942
+8972,National Treasure (2004),2004.0,adventure,0.9689081
+27251,"10th Kingdom, The (2000)",2000.0,adventure,0.9686551
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2001.0,adventure,0.96368456
+53125,Pirates of the Caribbean: At World's End (2007),2007.0,adventure,0.9610772
+60514,Journey to the Center of the Earth (2008),2008.0,adventure,0.95882154
+8375,"Hunting of the President, The (2004)",2004.0,documentary,1.0219380999999998
+8587,Mayor of the Sunset Strip (2003),2003.0,documentary,1.0208617
+81910,"Art of the Steal, The (2009)",2009.0,documentary,1.016592
+4884,Trembling Before G-d (2001),2001.0,documentary,1.0148821
+79760,Facing Ali (2009),2009.0,documentary,1.0147711
+60382,Roman Polanski: Wanted and Desired (2008),2008.0,documentary,1.0141695
+32022,Gunner Palace (2004),2004.0,documentary,1.0136818
+4779,Go Tigers! (2001),2001.0,documentary,1.0126779
+56379,"Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders (2006)",2006.0,documentary,1.0121396
+6327,"Decade Under the Influence, A (2003)",2003.0,documentary,1.010916
+27912,Outfoxed: Rupert Murdoch's War on Journalism (2004),2004.0,documentary,1.0101988000000002
+72714,Earthlings (2006),2006.0,documentary,1.0101728
+78746,Best Worst Movie (2009),2009.0,documentary,1.0101697
+71450,Capitalism: A Love Story (2009),2009.0,documentary,1.00998
+6400,Murder on a Sunday Morning (Un coupable idéal) (2001),2001.0,documentary,1.00973
+58191,Taxi to the Dark Side (2007),2007.0,documentary,1.009716
+65225,Zeitgeist: Addendum (2008),2008.0,documentary,1.0096141
+6160,Amandla! A Revolution in Four Part Harmony (2002),2002.0,documentary,1.00956
+68536,Stanley Kubrick: A Life in Pictures (2001),2001.0,documentary,1.0094764
+61257,I.O.U.S.A. (a.k.a. IOUSA) (2008),2008.0,documentary,1.0091498
+55444,Control (2007),2007.0,biopic,1.0204103999999998
+5680,Auto Focus (2002),2002.0,biopic,1.0181769
+6620,American Splendor (2003),2003.0,biopic,1.0167679
+74324,Temple Grandin (2010),2010.0,biopic,1.0162698
+8966,Kinsey (2004),2004.0,biopic,1.0160601
+49666,Fur: An Imaginary Portrait of Diane Arbus (2006),2006.0,biopic,1.0127345
+91134,My Week with Marilyn (2011),2011.0,biopic,1.0125747
+70728,Bronson (2009),2009.0,biopic,1.0125378
+40819,Walk the Line (2005),2005.0,biopic,1.0122842
+45635,"Notorious Bettie Page, The (2005)",2005.0,biopic,1.0121023999999998
+89761,"Dangerous Method, A (2011)",2011.0,biopic,1.0119175
+4995,"Beautiful Mind, A (2001)",2001.0,biopic,1.0114064
+106100,Dallas Buyers Club (2013),2013.0,biopic,1.0108465
+8873,"Motorcycle Diaries, The (Diarios de motocicleta) (2004)",2004.0,biopic,1.0105973
+5810,8 Mile (2002),2002.0,biopic,1.0101179
+47629,The Queen (2006),2006.0,biopic,1.0094912
+80463,"Social Network, The (2010)",2010.0,biopic,1.0094273
+8958,Ray (2004),2004.0,biopic,1.0083059
+31162,"Life and Death of Peter Sellers, The (2004)",2004.0,biopic,1.008143
+5791,Frida (2002),2002.0,biopic,1.0074723
+3593,Battlefield Earth (2000),2000.0,sci-fi,1.0322857
+63433,Farscape: The Peacekeeper Wars (2004),2004.0,sci-fi,1.0274023
+4735,Ghosts of Mars (2001),2001.0,sci-fi,1.0222309
+3190,Supernova (2000),2000.0,sci-fi,1.0219238000000002
+37380,Doom (2005),2005.0,sci-fi,1.0199704
+42422,Voices of a Distant Star (Hoshi no koe) (2003),2003.0,sci-fi,1.0186783
+39052,Star Wreck: In the Pirkinning (2005),2005.0,sci-fi,1.0179199
+93563,Lockout (2012),2012.0,sci-fi,1.016731
+91660,"Darkest Hour, The (2011)",2011.0,sci-fi,1.0166252
+60674,Stargate: Continuum (2008),2008.0,sci-fi,1.0164717
+102880,After Earth (2013),2013.0,sci-fi,1.0150867
+103253,Elysium (2013),2013.0,sci-fi,1.0142789
+82095,Skyline (2010),2010.0,sci-fi,1.0139612
+4370,A.I. Artificial Intelligence (2001),2001.0,sci-fi,1.0138735
+5944,Star Trek: Nemesis (2002),2002.0,sci-fi,1.0138464
+3986,"6th Day, The (2000)",2000.0,sci-fi,1.0136681
+71318,Terra (a.k.a. Battle for Terra) (2007),2007.0,sci-fi,1.0135407
+4446,Final Fantasy: The Spirits Within (2001),2001.0,sci-fi,1.0130645
+3745,Titan A.E. (2000),2000.0,sci-fi,1.012949
+56921,Battlestar Galactica: Razor (2007),2007.0,sci-fi,1.0124403
+27441,Blood: The Last Vampire (2000),2000.0,animation,1.0396925
+4990,Jimmy Neutron: Boy Genius (2001),2001.0,animation,1.0372941
+67429,Sita Sings the Blues (2008),2008.0,animation,1.0324801
+51939,TMNT (Teenage Mutant Ninja Turtles) (2007),2007.0,animation,1.0319326
+5072,Metropolis (2001),2001.0,animation,1.031753
+4446,Final Fantasy: The Spirits Within (2001),2001.0,animation,1.0297834
+48414,Open Season (2006),2006.0,animation,1.0295413
+6158,"Jungle Book 2, The (2003)",2003.0,animation,1.0290205
+72603,Merry Madagascar (2009),2009.0,animation,1.0274627
+40339,Chicken Little (2005),2005.0,animation,1.026902
+3745,Titan A.E. (2000),2000.0,animation,1.0268807
+55995,Beowulf (2007),2007.0,animation,1.0255615
+42734,Hoodwinked! (2005),2005.0,animation,1.0250641
+76301,"Emperor's New Groove 2: Kronk's New Groove, The (2005)",2005.0,animation,1.0248125
+8965,"Polar Express, The (2004)",2004.0,animation,1.0242625
+78499,Toy Story 3 (2010),2010.0,animation,1.0238498
+72701,Planet 51 (2009),2009.0,animation,1.0233116
+71484,Metropia (2009),2009.0,animation,1.0232079
+87876,Cars 2 (2011),2011.0,animation,1.0224351
+71129,Green Lantern: First Flight (2009),2009.0,animation,1.0216021999999998
+49649,Eragon (2006),2006.0,fantasy,1.0146713
+55259,"Seeker: The Dark Is Rising, The (2007)",2007.0,fantasy,1.014291
+54259,Stardust (2007),2007.0,fantasy,1.0118384
+65685,Inkheart (2008),2008.0,fantasy,1.0097504000000002
+82169,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",2010.0,fantasy,1.0095471
+41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",2005.0,fantasy,1.0095141
+60816,"Colour of Magic, The (Terry Pratchett's The Colour of Magic) (2008)",2008.0,fantasy,1.0091907
+56171,"Golden Compass, The (2007)",2007.0,fantasy,1.0091796
+58105,"Spiderwick Chronicles, The (2008)",2008.0,fantasy,1.0086769
+27251,"10th Kingdom, The (2000)",2000.0,fantasy,1.0086379
+8368,Harry Potter and the Prisoner of Azkaban (2004),2004.0,fantasy,1.0050895
+106489,"Hobbit: The Desolation of Smaug, The (2013)",2013.0,fantasy,1.0046817
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",2006.0,fantasy,1.004622
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),2001.0,fantasy,1.0036553
+94780,Snow White and the Huntsman (2012),2012.0,fantasy,1.003573
+50162,Arthur and the Invisibles (2007),2007.0,fantasy,1.003521
+101112,Oz the Great and Powerful (2013),2013.0,fantasy,1.0025431
+77540,Solomon Kane (2009),2009.0,fantasy,1.0012875
+54001,Harry Potter and the Order of the Phoenix (2007),2007.0,fantasy,1.0010959
+7380,Ella Enchanted (2004),2004.0,fantasy,1.0010655000000002
+6695,Jeepers Creepers 2 (2003),2003.0,horror,1.0079707
+33164,House of Wax (2005),2005.0,horror,1.0075195
+86295,Scream 4 (2011),2011.0,horror,1.0070056
+57520,One Missed Call (2008),2008.0,horror,1.0055506
+6880,"Texas Chainsaw Massacre, The (2003)",2003.0,horror,1.0039753
+3273,Scream 3 (2000),2000.0,horror,1.003911
+74685,"Crazies, The (2010)",2010.0,horror,1.0037209
+42723,Hostel (2005),2005.0,horror,1.0028066999999998
+66783,Friday the 13th (2009),2009.0,horror,1.0013951
+34323,"Devil's Rejects, The (2005)",2005.0,horror,1.0008125
+44397,"Hills Have Eyes, The (2006)",2006.0,horror,0.99988115
+77427,"Human Centipede, The (First Sequence) (2009)",2009.0,horror,0.9971092
+48591,"Grudge 2, The (2006)",2006.0,horror,0.9963101
+97188,Sinister (2012),2012.0,horror,0.9959457
+93840,"Cabin in the Woods, The (2012)",2012.0,horror,0.9958819
+6707,Cabin Fever (2002),2002.0,horror,0.99540854
+77798,"Nightmare on Elm Street, A (2010)",2010.0,horror,0.99498296
+7360,Dawn of the Dead (2004),2004.0,horror,0.99458873
+8947,"Grudge, The (2004)",2004.0,horror,0.99414825
+45081,Silent Hill (2006),2006.0,horror,0.99385774
+44191,V for Vendetta (2006),2006.0,action,0.9332104
+36931,New Police Story (Xin jing cha gu shi) (2004),2004.0,action,0.9274355
+54286,"Bourne Ultimatum, The (2007)",2007.0,action,0.92407537
+73017,Sherlock Holmes (2009),2009.0,action,0.9239857
+89190,Conan the Barbarian (2011),2011.0,action,0.92232907
+95875,Total Recall (2012),2012.0,action,0.9215981
+86892,The Man from Nowhere (2010),2010.0,action,0.92145944
+96737,Dredd (2012),2012.0,action,0.92027366
+96691,Resident Evil: Retribution (2012),2012.0,action,0.9202734
+5507,xXx (2002),2002.0,action,0.9198433
+79132,Inception (2010),2010.0,action,0.9187001
+51255,Hot Fuzz (2007),2007.0,action,0.9183301
+68319,X-Men Origins: Wolverine (2009),2009.0,action,0.91808283
+5903,Equilibrium (2002),2002.0,action,0.9178647
+5418,"Bourne Identity, The (2002)",2002.0,action,0.9177886
+76175,Clash of the Titans (2010),2010.0,action,0.9174886
+69526,Transformers: Revenge of the Fallen (2009),2009.0,action,0.9174583
+103042,Man of Steel (2013),2013.0,action,0.91740656
+91630,Mission: Impossible - Ghost Protocol (2011),2011.0,action,0.91730845
+6534,Hulk (2003),2003.0,action,0.916594
+4383,"Crimson Rivers, The (Rivières pourpres, Les) (2000)",2000.0,mystery,0.97843003
+55290,Gone Baby Gone (2007),2007.0,mystery,0.97759557
+5663,Below (2002),2002.0,mystery,0.97404635
+4226,Memento (2000),2000.0,mystery,0.9733796
+74458,Shutter Island (2010),2010.0,mystery,0.9690777
+52604,Fracture (2007),2007.0,mystery,0.9668622
+67620,Nothing But the Truth (2008),2008.0,mystery,0.96598196
+54372,Tell No One (Ne le dis à personne) (2006),2006.0,mystery,0.9641117
+5127,Dragonfly (2002),2002.0,mystery,0.96129775
+38061,Kiss Kiss Bang Bang (2005),2005.0,mystery,0.9580363000000002
+43832,"Call of Cthulhu, The (2005)",2005.0,mystery,0.9560046
+76317,After.Life (2009),2009.0,mystery,0.94217527
+69118,In the Electric Mist (2009),2009.0,mystery,0.94091916
+49278,Déjà Vu (Deja Vu) (2006),2006.0,mystery,0.9379538
+71573,Whiteout (2009),2009.0,mystery,0.9370947
+7347,Secret Window (2004),2004.0,mystery,0.9296411
+6263,Basic (2003),2003.0,mystery,0.92668104
+53466,Nancy Drew (2007),2007.0,mystery,0.9223864
+96488,Searching for Sugar Man (2012),2012.0,mystery,0.9202752
+67186,"Haunting in Connecticut, The (2009)",2009.0,mystery,0.9196172
+61986,Appaloosa (2008),2008.0,western,1.0155452
+54997,3:10 to Yuma (2007),2007.0,western,1.0081995
+82459,True Grit (2010),2010.0,western,0.9994705
+84944,Rango (2011),2011.0,western,0.9981966
+66785,"Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom) (2008)",2008.0,western,0.99729526
+6617,Open Range (2003),2003.0,western,0.99624276
+32392,800 Bullets (800 Balas) (2002),2002.0,western,0.9518459
+6950,"Missing, The (2003)",2003.0,western,0.9350326
+83613,Cowboys & Aliens (2011),2011.0,western,0.9290321
+52321,Seraphim Falls (2006),2006.0,western,0.9260553
+83374,"Warrior's Way, The (2010)",2010.0,western,0.91480124
+61289,Sukiyaki Western Django (2008),2008.0,western,0.9133872
+99114,Django Unchained (2012),2012.0,western,0.89802396
+55363,"Assassination of Jesse James by the Coward Robert Ford, The (2007)",2007.0,western,0.89714265
+43419,Bandidas (2006),2006.0,western,0.8829148000000001
+39381,"Proposition, The (2005)",2005.0,western,0.86973774
+4721,American Outlaws (2001),2001.0,western,0.8605398000000001
+41863,"Three Burials of Melquiades Estrada, The (2006)",2006.0,western,0.85971236
+4962,Texas Rangers (2001),2001.0,western,0.85761666
+27450,Blueberry (2004),2004.0,western,0.8540620999999999
+31364,Memories of Murder (Salinui chueok) (2003),2003.0,crime,1.00891
+48516,"Departed, The (2006)",2006.0,crime,1.0045285
+51540,Zodiac (2007),2007.0,crime,0.98187125
+79720,Animal Kingdom (2010),2010.0,crime,0.9813926
+65596,Mesrine: Killer Instinct (L'instinct de mort) (2008),2008.0,crime,0.9790106
+3899,Circus (2000),2000.0,crime,0.9789903
+55765,American Gangster (2007),2007.0,crime,0.9770926
+80489,"Town, The (2010)",2010.0,crime,0.97118163
+5987,"Love, Honour and Obey (2000)",2000.0,crime,0.97049737
+91842,Contraband (2012),2012.0,crime,0.9688891
+6016,City of God (Cidade de Deus) (2002),2002.0,crime,0.96731067
+2769,"Yards, The (2000)",2000.0,crime,0.96650994
+57401,Cleaner (2007),2007.0,crime,0.96602345
+85354,Mesrine: Public Enemy #1 (L'ennemi public n°1) (2008),2008.0,crime,0.96372473
+62792,Pride and Glory (2008),2008.0,crime,0.96169305
+31101,Stander (2003),2003.0,crime,0.9607518
+89102,Freakonomics (2010),2010.0,crime,0.9583603
+44665,Lucky Number Slevin (2006),2006.0,crime,0.9577644
+69118,In the Electric Mist (2009),2009.0,crime,0.954563
+52606,Big Nothing (2006),2006.0,crime,0.9532833
+44849,Renaissance (2006),2006.0,film noir,0.8516544
+4267,One Night at McCool's (2001),2001.0,film noir,0.84979594
+59026,99 francs (2007),2007.0,film noir,0.84905076
+71550,Assassination of a High School President (2008),2008.0,film noir,0.84470713
+4848,Mulholland Drive (2001),2001.0,film noir,0.8274878000000001
+103027,Much Ado About Nothing (2012),2012.0,film noir,0.82163405
+44189,Ask the Dust (2006),2006.0,film noir,0.8141955
+32587,Sin City (2005),2005.0,film noir,0.8119732
+38061,Kiss Kiss Bang Bang (2005),2005.0,film noir,0.7945739
+44761,Brick (2005),2005.0,film noir,0.7902746
+4777,"American Astronaut, The (2001)",2001.0,film noir,0.7863829000000001
+27833,Silver City (2004),2004.0,film noir,0.77646697
+6221,Gaudi Afternoon (2001),2001.0,film noir,0.76528895
+96610,Looper (2012),2012.0,film noir,0.7308204
+44665,Lucky Number Slevin (2006),2006.0,film noir,0.7172694000000001
+7201,Crime Spree (2003),2003.0,film noir,0.7090113
+70846,Lorna's Silence (Le silence de Lorna) (2008),2008.0,film noir,0.7089598000000001
+51927,Dead Silence (2007),2007.0,film noir,0.7013501999999999
+53769,In Search of a Midnight Kiss (2007),2007.0,film noir,0.6958283000000001
+6377,Finding Nemo (2003),2003.0,film noir,0.67175233
+55063,My Winnipeg (2007),2007.0,black and white,0.9958178
+71108,"White Ribbon, The (Das weiße Band) (2009)",2009.0,black and white,0.9890915
+48872,13 Tzameti (2005),2005.0,black and white,0.9882773
+7932,Dark Days (2000),2000.0,black and white,0.9832071
+8014,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",2003.0,black and white,0.96959996
+4777,"American Astronaut, The (2001)",2001.0,black and white,0.9030969
+103027,Much Ado About Nothing (2012),2012.0,black and white,0.8965875
+7460,Coffee and Cigarettes (2003),2003.0,black and white,0.88675714
+59684,Lake of Fire (2006),2006.0,black and white,0.86391723
+89904,The Artist (2011),2011.0,black and white,0.84078467
+60766,Man on Wire (2008),2008.0,black and white,0.83444834
+55444,Control (2007),2007.0,black and white,0.8311243
+97168,Marley (2012),2012.0,black and white,0.8193256999999999
+105197,Nebraska (2013),2013.0,black and white,0.81236494
+39292,"Good Night, and Good Luck. (2005)",2005.0,black and white,0.7963723
+58425,Heima (2007),2007.0,black and white,0.78201556
+4226,Memento (2000),2000.0,black and white,0.7799231
+6648,Chunhyang (2000),2000.0,black and white,0.7732239000000001
+98491,Paperman (2012),2012.0,black and white,0.7655711
+79760,Facing Ali (2009),2009.0,black and white,0.7608528
+38038,Wallace & Gromit in The Curse of the Were-Rabbit (2005),2005.0,stop motion,0.9914317
+94833,"Pirates! Band of Misfits, The (2012)",2012.0,stop motion,0.98999035
+71899,Mary and Max (2009),2009.0,stop motion,0.98263574
+97172,Frankenweenie (2012),2012.0,stop motion,0.97979856
+66097,Coraline (2009),2009.0,stop motion,0.97698665
+37729,Corpse Bride (2005),2005.0,stop motion,0.91434574
+96281,ParaNorman (2012),2012.0,stop motion,0.907889
+3751,Chicken Run (2000),2000.0,stop motion,0.86895657
+64285,Wallace and Gromit in 'A Matter of Loaf and Death' (2008),2008.0,stop motion,0.6953782
+72226,Fantastic Mr. Fox (2009),2009.0,stop motion,0.60700035
+4996,Little Otik (Otesánek) (2000),2000.0,stop motion,0.54847944
+108932,The Lego Movie (2014),2014.0,stop motion,0.4805125
+83803,Day & Night (2010),2010.0,stop motion,0.45803857
+79760,Facing Ali (2009),2009.0,stop motion,0.41730857
+74791,"Town Called Panic, A (Panique au village) (2009)",2009.0,stop motion,0.3811074
+77154,Waking Sleeping Beauty (2009),2009.0,stop motion,0.37076187
+57502,Cat Soup (Nekojiru-so) (2001),2001.0,stop motion,0.33917916
+71379,Paranormal Activity (2009),2009.0,stop motion,0.33502924
+31878,Kung Fu Hustle (Gong fu) (2004),2004.0,stop motion,0.3229639
+67429,Sita Sings the Blues (2008),2008.0,stop motion,0.2854849
+7324,Hidalgo (2004),2004.0,cinematography,0.88683033
+96606,Samsara (2011),2011.0,cinematography,0.8855040999999999
+85211,Norwegian Wood (Noruwei no mori) (2010),2010.0,cinematography,0.88198435
+6016,City of God (Cidade de Deus) (2002),2002.0,cinematography,0.87329435
+76054,Oceans (Océans) (2009),2009.0,cinematography,0.87201107
+27773,Old Boy (2003),2003.0,cinematography,0.8705719999999999
+85025,"Eagle, The (2011)",2011.0,cinematography,0.869707
+55363,"Assassination of Jesse James by the Coward Robert Ford, The (2007)",2007.0,cinematography,0.8677646999999999
+106918,"Secret Life of Walter Mitty, The (2013)",2013.0,cinematography,0.86624956
+53447,Paranoid Park (2007),2007.0,cinematography,0.8658329
+88129,Drive (2011),2011.0,cinematography,0.8657783000000001
+8795,Musa the Warrior (Musa) (2001),2001.0,cinematography,0.86323345
+105197,Nebraska (2013),2013.0,cinematography,0.8629606
+32587,Sin City (2005),2005.0,cinematography,0.8625783000000001
+55820,No Country for Old Men (2007),2007.0,cinematography,0.8624141
+50005,Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006),2006.0,cinematography,0.8609568999999999
+55052,Atonement (2007),2007.0,cinematography,0.8608036
+83374,"Warrior's Way, The (2010)",2010.0,cinematography,0.8607956
+4144,In the Mood For Love (Fa yeung nin wa) (2000),2000.0,cinematography,0.8607286
+66785,"Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom) (2008)",2008.0,cinematography,0.8606646000000001
+64116,Igor (2008),2008.0,computer animation,1.0568732
+91414,Arthur Christmas (2011),2011.0,computer animation,1.0422481
+58299,Horton Hears a Who! (2008),2008.0,computer animation,1.0360105
+47264,Barnyard: The Original Party Animals (2006),2006.0,computer animation,1.0354826
+64249,Shrek the Halls (2007),2007.0,computer animation,1.0351646
+72294,"Christmas Carol, A (2009)",2009.0,computer animation,1.0171423000000002
+4824,Grateful Dawg (2000),2000.0,computer animation,1.015711
+97225,Hotel Transylvania (2012),2012.0,computer animation,1.014799
+53460,Surf's Up (2007),2007.0,computer animation,1.0123501
+98243,Rise of the Guardians (2012),2012.0,computer animation,1.0112593
+8965,"Polar Express, The (2004)",2004.0,computer animation,1.0110949
+4886,"Monsters, Inc. (2001)",2001.0,computer animation,1.0092762
+67295,Kung Fu Panda: Secrets of the Furious Five (2008),2008.0,computer animation,1.0087045
+78499,Toy Story 3 (2010),2010.0,computer animation,1.0085845
+4990,Jimmy Neutron: Boy Genius (2001),2001.0,computer animation,1.0085664
+48414,Open Season (2006),2006.0,computer animation,1.0070859
+4306,Shrek (2001),2001.0,computer animation,1.0069814
+6056,Chaos (2001),2001.0,computer animation,1.0034144
+91386,Happy Feet Two (2011),2011.0,computer animation,1.0031043
+98491,Paperman (2012),2012.0,computer animation,1.0007155
+6377,Finding Nemo (2003),2003.0,ocean,1.0208744
+3555,U-571 (2000),2000.0,ocean,1.019796
+5524,Blue Crush (2002),2002.0,ocean,1.0196497
+65261,Ponyo (Gake no ue no Ponyo) (2008),2008.0,ocean,1.0194677
+97938,Life of Pi (2012),2012.0,ocean,1.0176673
+71462,"Cove, The (2009)",2009.0,ocean,1.0133425
+53460,Surf's Up (2007),2007.0,ocean,1.0129174
+76054,Oceans (Océans) (2009),2009.0,ocean,1.0124513000000002
+3755,"Perfect Storm, The (2000)",2000.0,ocean,1.0122523
+97057,Kon-Tiki (2012),2012.0,ocean,1.0098953000000002
+105954,All Is Lost (2013),2013.0,ocean,1.0092052
+105504,Captain Phillips (2013),2013.0,ocean,1.0076063
+33539,Deep Blue (2003),2003.0,ocean,1.006891
+31429,Aliens of the Deep (2005),2005.0,ocean,1.0058132
+27882,Riding Giants (2004),2004.0,ocean,1.0057865
+27822,Open Water (2003),2003.0,ocean,1.0052428
+48412,"Guardian, The (2006)",2006.0,ocean,1.0050414
+43934,Deep Sea 3D (2006),2006.0,ocean,1.0042953
+45442,Poseidon (2006),2006.0,ocean,1.0021746
+8907,Shark Tale (2004),2004.0,ocean,1.0021509
+6158,"Jungle Book 2, The (2003)",2003.0,jungle,1.0176109
+8830,Anacondas: The Hunt for the Blood Orchid (2004),2004.0,jungle,1.0074908
+53550,Rescue Dawn (2006),2006.0,jungle,0.98260367
+6485,Rugrats Go Wild! (2003),2003.0,jungle,0.95344806
+58299,Horton Hears a Who! (2008),2008.0,jungle,0.9517696
+79057,Predators (2010),2010.0,jungle,0.93444014
+49528,Turistas (2006),2006.0,jungle,0.93361974
+43869,Curious George (2006),2006.0,jungle,0.91451705
+6764,"Rundown, The (2003)",2003.0,jungle,0.90583193
+41569,King Kong (2005),2005.0,jungle,0.89840674
+69644,Ice Age: Dawn of the Dinosaurs (2009),2009.0,jungle,0.8904951999999999
+61132,Tropic Thunder (2008),2008.0,jungle,0.8599421999999999
+33615,Madagascar (2005),2005.0,jungle,0.85880625
+58975,"Ruins, The (2008)",2008.0,jungle,0.85151684
+6213,Tears of the Sun (2003),2003.0,jungle,0.85075724
+57528,Rambo (Rambo 4) (2008),2008.0,jungle,0.8352115
+86298,Rio (2011),2011.0,jungle,0.8258399
+8534,Two Brothers (Deux frères) (2004),2004.0,jungle,0.8253919
+5127,Dragonfly (2002),2002.0,jungle,0.8165176
+64499,Che: Part One (2008),2008.0,jungle,0.81236684
+92938,Ghost Rider: Spirit of Vengeance (2012),2012.0,anti-hero,0.9210056
+33794,Batman Begins (2005),2005.0,anti-hero,0.9013294
+51077,Ghost Rider (2007),2007.0,anti-hero,0.8464065999999999
+60074,Hancock (2008),2008.0,anti-hero,0.844875
+7373,Hellboy (2004),2004.0,anti-hero,0.8414040999999999
+58559,"Dark Knight, The (2008)",2008.0,anti-hero,0.84021866
+60040,"Incredible Hulk, The (2008)",2008.0,anti-hero,0.8355285
+106072,Thor: The Dark World (2013),2013.0,anti-hero,0.83186316
+7439,"Punisher, The (2004)",2004.0,anti-hero,0.8312963
+103772,"Wolverine, The (2013)",2013.0,anti-hero,0.8294796999999998
+31221,Elektra (2005),2005.0,anti-hero,0.827307
+6157,Daredevil (2003),2003.0,anti-hero,0.819994
+87232,X-Men: First Class (2011),2011.0,anti-hero,0.8085786
+76251,Kick-Ass (2010),2010.0,anti-hero,0.80200195
+87430,Green Lantern (2011),2011.0,anti-hero,0.7989371
+37733,"History of Violence, A (2005)",2005.0,anti-hero,0.7918729999999999
+91529,"Dark Knight Rises, The (2012)",2012.0,anti-hero,0.7912024000000001
+88140,Captain America: The First Avenger (2011),2011.0,anti-hero,0.7904054
+83349,"Green Hornet, The (2011)",2011.0,anti-hero,0.7900225000000001
+32587,Sin City (2005),2005.0,anti-hero,0.77822053
+53996,Transformers (2007),2007.0,giant robots,1.0047071
+87520,Transformers: Dark of the Moon (2011),2011.0,giant robots,0.9948889
+69526,Transformers: Revenge of the Fallen (2009),2009.0,giant robots,0.9947896
+103228,Pacific Rim (2013),2013.0,giant robots,0.9773737
+94018,Battleship (2012),2012.0,giant robots,0.7864300000000001
+6010,Double Whammy (2001),2001.0,giant robots,0.75492024
+7314,Robot Stories (2003),2003.0,giant robots,0.7531854
+89745,"Avengers, The (2012)",2012.0,giant robots,0.7529305000000001
+70336,G.I. Joe: The Rise of Cobra (2009),2009.0,giant robots,0.7527229999999999
+87430,Green Lantern (2011),2011.0,giant robots,0.751088
+77561,Iron Man 2 (2010),2010.0,giant robots,0.7405815
+102125,Iron Man 3 (2013),2013.0,giant robots,0.73927593
+63433,Farscape: The Peacekeeper Wars (2004),2004.0,giant robots,0.7387854
+90249,Real Steel (2011),2011.0,giant robots,0.7366241
+5350,"Mystic Masseur, The (2001)",2001.0,giant robots,0.7311293000000001
+68319,X-Men Origins: Wolverine (2009),2009.0,giant robots,0.72451794
+59315,Iron Man (2008),2008.0,giant robots,0.7221651
+76175,Clash of the Titans (2010),2010.0,giant robots,0.7186667
+53464,Fantastic Four: Rise of the Silver Surfer (2007),2007.0,giant robots,0.7182354999999999
+79057,Predators (2010),2010.0,giant robots,0.71796966
+4865,From Hell (2001),2001.0,serial killer,1.0083688
+72129,Saw VI (2009),2009.0,serial killer,1.0078534
+104879,Prisoners (2013),2013.0,serial killer,1.0047319
+3535,American Psycho (2000),2000.0,serial killer,1.0043535
+64037,Surveillance (2008),2008.0,serial killer,1.00268
+4725,Session 9 (2001),2001.0,serial killer,1.0022029
+59709,"Oxford Murders, The (2007)",2007.0,serial killer,1.0021372
+34323,"Devil's Rejects, The (2005)",2005.0,serial killer,1.0015445
+8062,Dahmer (2002),2002.0,serial killer,1.0008476999999998
+50447,"Dead Girl, The (2006)",2006.0,serial killer,0.9998702
+101088,Stoker (2013),2013.0,serial killer,0.9995645
+51540,Zodiac (2007),2007.0,serial killer,0.9994185
+31364,Memories of Murder (Salinui chueok) (2003),2003.0,serial killer,0.99939
+8369,Mindhunters (2004),2004.0,serial killer,0.99868965
+52281,Grindhouse (2007),2007.0,serial killer,0.9979906
+63436,Saw V (2008),2008.0,serial killer,0.99727714
+70206,"Collector, The (2009)",2009.0,serial killer,0.99697256
+97306,Seven Psychopaths (2012),2012.0,serial killer,0.9967115
+48518,"Texas Chainsaw Massacre: The Beginning, The (2006)",2006.0,serial killer,0.996524
+73511,Horsemen (2009),2009.0,serial killer,0.9963436
+6709,Once Upon a Time in Mexico (2003),2003.0,hitman,1.0216658
+27408,Ripley's Game (2002),2002.0,hitman,1.0215012
+4011,Snatch (2000),2000.0,hitman,1.0197872
+27831,Layer Cake (2004),2004.0,hitman,1.0147603
+8798,Collateral (2004),2004.0,hitman,1.0145355
+5464,Road to Perdition (2002),2002.0,hitman,1.0142565
+7381,"Whole Ten Yards, The (2004)",2004.0,hitman,1.0138642
+4235,Amores Perros (Love's a Bitch) (2000),2000.0,hitman,1.0107534
+4848,Mulholland Drive (2001),2001.0,hitman,1.0062544
+55118,Eastern Promises (2007),2007.0,hitman,1.0039995000000002
+38095,"Bittersweet Life, A (Dalkomhan insaeng) (2005)",2005.0,hitman,1.002309
+44665,Lucky Number Slevin (2006),2006.0,hitman,1.0009525
+97306,Seven Psychopaths (2012),2012.0,hitman,1.0007982
+55820,No Country for Old Men (2007),2007.0,hitman,0.9996246
+4034,Traffic (2000),2000.0,hitman,0.9989431
+97860,Killing Them Softly (2012),2012.0,hitman,0.99882734
+57669,In Bruges (2008),2008.0,hitman,0.99741685
+50794,Smokin' Aces (2006),2006.0,hitman,0.9960263
+41716,"Matador, The (2005)",2005.0,hitman,0.99030554
+5265,Death to Smoochy (2002),2002.0,hitman,0.9899173
+41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",2005.0,wizards,1.0179479
+79139,"Sorcerer's Apprentice, The (2010)",2010.0,wizards,1.0154459999999998
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),2001.0,wizards,1.0060825
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),2004.0,wizards,1.0057067
+60816,"Colour of Magic, The (Terry Pratchett's The Colour of Magic) (2008)",2008.0,wizards,1.0046445
+5816,Harry Potter and the Chamber of Secrets (2002),2002.0,wizards,1.0015699
+3997,Dungeons & Dragons (2000),2000.0,wizards,0.99912286
+40815,Harry Potter and the Goblet of Fire (2005),2005.0,wizards,0.99771285
+8368,Harry Potter and the Prisoner of Azkaban (2004),2004.0,wizards,0.99567866
+65685,Inkheart (2008),2008.0,wizards,0.9945471
+54001,Harry Potter and the Order of the Phoenix (2007),2007.0,wizards,0.99075496
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),2010.0,wizards,0.9849616
+69844,Harry Potter and the Half-Blood Prince (2009),2009.0,wizards,0.9833653
+82169,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",2010.0,wizards,0.9828973
+49649,Eragon (2006),2006.0,wizards,0.98120487
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2001.0,wizards,0.97705245
+56171,"Golden Compass, The (2007)",2007.0,wizards,0.9767066
+60818,Hogfather (Terry Pratchett's Hogfather) (2006),2006.0,wizards,0.97256565
+5952,"Lord of the Rings: The Two Towers, The (2002)",2002.0,wizards,0.96796715
+4886,"Monsters, Inc. (2001)",2001.0,wizards,0.96659064
+5069,Escaflowne: The Movie (Escaflowne) (2000),2000.0,heroine,0.7591224
+7374,Home on the Range (2004),2004.0,heroine,0.73064125
+66130,Chocolate (2008),2008.0,heroine,0.6956625
+27731,"Cat Returns, The (Neko no ongaeshi) (2002)",2002.0,heroine,0.68015945
+95167,Brave (2012),2012.0,heroine,0.6752099
+50003,DOA: Dead or Alive (2006),2006.0,heroine,0.67426825
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2001.0,heroine,0.6684109
+27441,Blood: The Last Vampire (2000),2000.0,heroine,0.66609466
+35957,Red Eye (2005),2005.0,heroine,0.6599078
+4997,"Convent, The (2000)",2000.0,heroine,0.6577189999999999
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),2004.0,heroine,0.65547454
+6648,Chunhyang (2000),2000.0,heroine,0.6546526
+7438,Kill Bill: Vol. 2 (2004),2004.0,heroine,0.64977145
+5999,Heavy Metal 2000 (2000),2000.0,heroine,0.6468451999999999
+74370,"House of the Devil, The (2009)",2009.0,heroine,0.63914764
+66097,Coraline (2009),2009.0,heroine,0.6358305000000001
+96691,Resident Evil: Retribution (2012),2012.0,heroine,0.6333214
+4366,Atlantis: The Lost Empire (2001),2001.0,heroine,0.62386143
+58297,Doomsday (2008),2008.0,heroine,0.59823346
+40617,Creep (2004),2004.0,heroine,0.5973748999999999
+31437,Nobody Knows (Dare mo shiranai) (2004),2004.0,children,1.0218176
+40339,Chicken Little (2005),2005.0,children,1.0079218
+47124,"Ant Bully, The (2006)",2006.0,children,1.0060118
+4886,"Monsters, Inc. (2001)",2001.0,children,1.0030887
+4990,Jimmy Neutron: Boy Genius (2001),2001.0,children,1.0023057
+66304,Hotel for Dogs (2009),2009.0,children,1.001543
+5224,Promises (2001),2001.0,children,0.9995754
+93475,"Awakening, The (2011)",2011.0,children,0.9986923
+6377,Finding Nemo (2003),2003.0,children,0.9982009
+55999,Mr. Magorium's Wonder Emporium (2007),2007.0,children,0.99713576
+55732,Martian Child (2007),2007.0,children,0.9970522
+8965,"Polar Express, The (2004)",2004.0,children,0.9968456
+71108,"White Ribbon, The (Das weiße Band) (2009)",2009.0,children,0.9968194
+56846,Rabbit Without Ears (Keinohrhasen) (2007),2007.0,children,0.99427366
+92643,Monsieur Lazhar (2011),2011.0,children,0.9941863
+5444,Lilo & Stitch (2002),2002.0,children,0.99382806
+8961,"Incredibles, The (2004)",2004.0,children,0.9935999
+78499,Toy Story 3 (2010),2010.0,children,0.9932462
+4765,L.I.E. (2001),2001.0,children,0.9930842
+7440,Paper Clips (2004),2004.0,children,0.993057
+58291,College Road Trip (2008),2008.0,family,0.927403
+49013,"Santa Clause 3: The Escape Clause, The (2006)",2006.0,family,0.9186237
+52279,Are We Done Yet? (2007),2007.0,family,0.9173784
+6377,Finding Nemo (2003),2003.0,family,0.910444
+44399,"Shaggy Dog, The (2006)",2006.0,family,0.90938807
+101142,"Croods, The (2013)",2013.0,family,0.9029056
+8961,"Incredibles, The (2004)",2004.0,family,0.90134275
+4232,Spy Kids (2001),2001.0,family,0.9007993
+79463,Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang) (2010),2010.0,family,0.9007062
+87483,Mr. Popper's Penguins (2011),2011.0,family,0.8986267
+4886,"Monsters, Inc. (2001)",2001.0,family,0.8959495000000001
+3287,"Tigger Movie, The (2000)",2000.0,family,0.89283013
+5299,My Big Fat Greek Wedding (2002),2002.0,family,0.8922343
+50923,"Astronaut Farmer, The (2007)",2007.0,family,0.8914496
+103141,Monsters University (2013),2013.0,family,0.8907746999999999
+46972,Night at the Museum (2006),2006.0,family,0.8877995000000001
+99145,"Impossible, The (Imposible, Lo) (2012)",2012.0,family,0.8870326
+95167,Brave (2012),2012.0,family,0.8852658000000001
+7161,Cheaper by the Dozen (2003),2003.0,family,0.88347614
+4737,"American Rhapsody, An (2001)",2001.0,family,0.8809065999999999
+63992,Twilight (2008),2008.0,teenagers,1.0147367
+4450,Bully (2001),2001.0,teenagers,1.0084264
+52458,Disturbia (2007),2007.0,teenagers,1.0082743
+7976,Ken Park (2002),2002.0,teenagers,1.0074302
+91500,The Hunger Games (2012),2012.0,teenagers,1.0063752
+3882,Bring It On (2000),2000.0,teenagers,1.0040462
+87079,Trust (2010),2010.0,teenagers,1.0039592
+47830,"Quiet, The (2005)",2005.0,teenagers,1.0039134
+85056,I Am Number Four (2011),2011.0,teenagers,0.99923646
+8643,"Cinderella Story, A (2004)",2004.0,teenagers,0.9991925
+73266,Youth in Revolt (2009),2009.0,teenagers,0.99897206
+67734,Adventureland (2009),2009.0,teenagers,0.99779344
+69844,Harry Potter and the Half-Blood Prince (2009),2009.0,teenagers,0.99771154
+87192,Attack the Block (2011),2011.0,teenagers,0.99750316
+47952,"Covenant, The (2006)",2006.0,teenagers,0.9964925
+40815,Harry Potter and the Goblet of Fire (2005),2005.0,teenagers,0.9960624
+63808,"Class, The (Entre les murs) (2008)",2008.0,teenagers,0.99529266
+6549,How to Deal (2003),2003.0,teenagers,0.9947201
+103539,The Spectacular Now (2013),2013.0,teenagers,0.99440324
+7285,Thirteen (2003),2003.0,teenagers,0.9941584
+79091,Despicable Me (2010),2010.0,funny,0.887691
+56012,"Evening with Kevin Smith 2: Evening Harder, An (2006)",2006.0,funny,0.88013625
+67138,Live Free or Die (2006),2006.0,funny,0.8717060999999999
+27797,"Man Who Copied, The (Homem Que Copiava, O) (2003)",2003.0,funny,0.86286485
+78544,Ricky Gervais Live 3: Fame (2007),2007.0,funny,0.860392
+78160,Ricky Gervais Live: Animals (2003),2003.0,funny,0.8564527
+4306,Shrek (2001),2001.0,funny,0.8512019000000001
+95441,Ted (2012),2012.0,funny,0.85029054
+52245,Blades of Glory (2007),2007.0,funny,0.85009587
+4734,Jay and Silent Bob Strike Back (2001),2001.0,funny,0.85008466
+55031,"Evening with Kevin Smith, An (2002)",2002.0,funny,0.84811044
+50651,Kenny (2006),2006.0,funny,0.8437083000000001
+5110,Super Troopers (2001),2001.0,funny,0.84288955
+50798,Epic Movie (2007),2007.0,funny,0.8411788
+78162,Ricky Gervais Live 2: Politics (2004),2004.0,funny,0.8397745000000001
+43652,"Comedians of Comedy, The (2005)",2005.0,funny,0.83975506
+30825,Meet the Fockers (2004),2004.0,funny,0.83957124
+8360,Shrek 2 (2004),2004.0,funny,0.83865714
+85780,Family Guy Presents: It's a Trap (2010),2010.0,funny,0.8369014000000001
+4718,American Pie 2 (2001),2001.0,funny,0.8362861999999999
+4775,Glitter (2001),2001.0,feel good movie,0.94590294
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",2001.0,feel good movie,0.9333495
+4014,Chocolat (2000),2000.0,feel good movie,0.9298084
+6942,Love Actually (2003),2003.0,feel good movie,0.9177146
+33660,Cinderella Man (2005),2005.0,feel good movie,0.9078535
+92259,Intouchables (2011),2011.0,feel good movie,0.8705088
+89774,Warrior (2011),2011.0,feel good movie,0.84649
+3969,Pay It Forward (2000),2000.0,feel good movie,0.8407719000000001
+47099,"Pursuit of Happyness, The (2006)",2006.0,feel good movie,0.8363444999999999
+97836,Here Comes the Boom (2012),2012.0,feel good movie,0.83402836
+3408,Erin Brockovich (2000),2000.0,feel good movie,0.8339993
+63082,Slumdog Millionaire (2008),2008.0,feel good movie,0.8281832
+5299,My Big Fat Greek Wedding (2002),2002.0,feel good movie,0.8246125
+5377,About a Boy (2002),2002.0,feel good movie,0.81683636
+81845,"King's Speech, The (2010)",2010.0,feel good movie,0.8161229
+6218,Bend It Like Beckham (2002),2002.0,feel good movie,0.8114557
+4246,Bridget Jones's Diary (2001),2001.0,feel good movie,0.8093574
+8529,"Terminal, The (2004)",2004.0,feel good movie,0.8084036
+93723,Damsels in Distress (2011),2011.0,feel good movie,0.8058772
+8978,Christmas with the Kranks (2004),2004.0,feel good movie,0.8055321999999999
+92058,"Human Centipede II (Full Sequence), The (2011)",2011.0,disturbing,0.9646741
+5909,Visitor Q (Bizita Q) (2001),2001.0,disturbing,0.96028376
+62203,Martyrs (2008),2008.0,disturbing,0.95682585
+38097,Dumplings (Gaau ji) (2004),2004.0,disturbing,0.95567834
+79251,"Serbian Film, A (Srpski film) (2010)",2010.0,disturbing,0.9553654
+6214,Irreversible (Irréversible) (2002),2002.0,disturbing,0.9552382
+77427,"Human Centipede, The (First Sequence) (2009)",2009.0,disturbing,0.9527632
+69134,Antichrist (2009),2009.0,disturbing,0.95194006
+7235,Ichi the Killer (Koroshiya 1) (2001),2001.0,disturbing,0.95062757
+27592,Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002),2002.0,disturbing,0.9373318000000002
+3949,Requiem for a Dream (2000),2000.0,disturbing,0.93703675
+4996,Little Otik (Otesánek) (2000),2000.0,disturbing,0.9363177
+8950,The Machinist (2004),2004.0,disturbing,0.93619394
+6197,Spider (2002),2002.0,disturbing,0.9361119
+27773,Old Boy (2003),2003.0,disturbing,0.9357569
+33896,3 Extremes (Three... Extremes) (Saam gaang yi) (2004),2004.0,disturbing,0.9309801
+33592,Bad Guy (Nabbeun namja) (2001),2001.0,disturbing,0.9290348
+77307,Dogtooth (Kynodontas) (2009),2009.0,disturbing,0.92198575
+66090,Eden Lake (2008),2008.0,disturbing,0.91957045
+5269,"Piano Teacher, The (La pianiste) (2001)",2001.0,disturbing,0.91933954
+84570,Country Strong (2010),2010.0,music,1.0143436
+6160,Amandla! A Revolution in Four Part Harmony (2002),2002.0,music,1.0093771
+55872,August Rush (2007),2007.0,music,1.0078266
+5508,24 Hour Party People (2002),2002.0,music,1.0038704
+64229,Cadillac Records (2008),2008.0,music,1.0024074
+53123,Once (2006),2006.0,music,1.0022601
+6382,Together (Han ni Zai Yiki) (2002),2002.0,music,1.0018967
+3897,Almost Famous (2000),2000.0,music,1.0012454
+6554,Garage Days (2002),2002.0,music,1.0008221
+49396,Tenacious D in The Pick of Destiny (2006),2006.0,music,1.0007181
+97168,Marley (2012),2012.0,music,0.9996612
+58425,Heima (2007),2007.0,music,0.9987087
+106766,Inside Llewyn Davis (2013),2013.0,music,0.99836814
+51084,Music and Lyrics (2007),2007.0,music,0.9978304
+27800,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003),2003.0,music,0.99778724
+96488,Searching for Sugar Man (2012),2012.0,music,0.9973799
+27815,"Chorus, The (Choristes, Les) (2004)",2004.0,music,0.9969859
+40819,Walk the Line (2005),2005.0,music,0.996665
+4376,Down From the Mountain (2000),2000.0,music,0.9966049
+77854,"Work of Director Michel Gondry, The (2003)",2003.0,music,0.99608743
+4033,Thirteen Days (2000),2000.0,political,1.0392884
+8917,Team America: World Police (2004),2004.0,political,1.039224
+4384,Lumumba (2000),2000.0,political,1.0287721
+55946,Lions For Lambs (2007),2007.0,political,1.0266392
+6965,Journeys with George (2002),2002.0,political,1.0243199
+8622,Fahrenheit 9/11 (2004),2004.0,political,1.0177397
+46559,"Road to Guantanamo, The (2006)",2006.0,political,1.0152481
+55284,Rendition (2007),2007.0,political,1.0151569
+81641,Fair Game (2010),2010.0,political,1.0142753
+34552,"Girl in the Café, The (2005)",2005.0,political,1.0131891
+27611,Battlestar Galactica (2003),2003.0,political,1.0129636999999998
+40583,Syriana (2005),2005.0,political,1.012546
+65631,Battle in Seattle (2007),2007.0,political,1.0124054
+4300,Bread and Roses (2000),2000.0,political,1.0120177
+56788,Charlie Wilson's War (2007),2007.0,political,1.0115647
+36517,"Constant Gardener, The (2005)",2005.0,political,1.0094502
+98961,Zero Dark Thirty (2012),2012.0,political,1.0092019
+44191,V for Vendetta (2006),2006.0,political,1.008925
+33903,"Edukators, The (Die Fetten Jahre sind vorbei) (2004)",2004.0,political,1.00885
+7767,"Best of Youth, The (La meglio gioventù) (2003)",2003.0,political,1.0083154
+74131,Extraordinary Measures (2010),2010.0,science,0.859509
+55908,"Man from Earth, The (2007)",2007.0,science,0.8563124
+59295,Expelled: No Intelligence Allowed (2008),2008.0,science,0.8552867000000001
+3981,Red Planet (2000),2000.0,science,0.8268044
+59392,Stargate: The Ark of Truth (2008),2008.0,science,0.8050102
+60037,"Happening, The (2008)",2008.0,science,0.8022486
+67197,Knowing (2009),2009.0,science,0.7994175
+91660,"Darkest Hour, The (2011)",2011.0,science,0.78805685
+83506,Ricky Gervais Live 4: Science (2010),2010.0,science,0.78636754
+102880,After Earth (2013),2013.0,science,0.7823
+3745,Titan A.E. (2000),2000.0,science,0.7812736
+7266,"Lost Skeleton of Cadavra, The (2002)",2002.0,science,0.7800982
+3354,Mission to Mars (2000),2000.0,science,0.7781954000000001
+103306,Europa Report (2013),2013.0,science,0.7763541
+71318,Terra (a.k.a. Battle for Terra) (2007),2007.0,science,0.7734343000000001
+3593,Battlefield Earth (2000),2000.0,science,0.7710146999999999
+8870,"Forgotten, The (2004)",2004.0,science,0.76729286
+5046,Impostor (2002),2002.0,science,0.76672673
+27899,What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004),2004.0,science,0.7657725999999999
+4370,A.I. Artificial Intelligence (2001),2001.0,science,0.76422274
+45440,Art School Confidential (2006),2006.0,art,1.0669867
+6341,"Shape of Things, The (2003)",2003.0,art,1.0447767
+81786,Certified Copy (Copie conforme) (2010),2010.0,art,1.0387769
+8919,P.S. (2004),2004.0,art,1.0341296999999998
+90600,Headhunters (Hodejegerne) (2011),2011.0,art,1.0290556
+77455,Exit Through the Gift Shop (2010),2010.0,art,1.027816
+68967,"Summer Hours (Heure d'été, L') (2008)",2008.0,art,1.0275778
+5686,Russian Ark (Russkiy Kovcheg) (2002),2002.0,art,1.0229253
+55687,My Kid Could Paint That (2007),2007.0,art,1.0223734
+85394,Cave of Forgotten Dreams (2010),2010.0,art,1.0210526
+4017,Pollock (2000),2000.0,art,1.0200062
+5993,Max (2002),2002.0,art,1.0192723
+50274,Venus (2006),2006.0,art,1.0170940999999998
+81910,"Art of the Steal, The (2009)",2009.0,art,1.0170641
+83293,Waste Land (2010),2010.0,art,1.014589
+5137,Scratch (2001),2001.0,art,1.0111282
+5791,Frida (2002),2002.0,art,1.0096452
+101741,Trance (2013),2013.0,art,1.0066134
+7151,Girl with a Pearl Earring (2003),2003.0,art,1.0044476999999998
+49666,Fur: An Imaginary Portrait of Diane Arbus (2006),2006.0,art,1.0043849
+43934,Deep Sea 3D (2006),2006.0,nature,0.8330671999999999
+60333,Encounters at the End of the World (2008),2008.0,nature,0.8089638000000001
+32582,"Wild Parrots of Telegraph Hill, The (2003)",2003.0,nature,0.51608396
+4368,Dr. Dolittle 2 (2001),2001.0,nature,0.50245416
+5952,"Lord of the Rings: The Two Towers, The (2002)",2002.0,nature,0.49812543
+33539,Deep Blue (2003),2003.0,nature,0.49277318
+31429,Aliens of the Deep (2005),2005.0,nature,0.47760653
+43917,Eight Below (2006),2006.0,nature,0.46313226
+7153,"Lord of the Rings: The Return of the King, The (2003)",2003.0,nature,0.46055484
+34072,"March of the Penguins (Marche de l'empereur, La) (2005)",2005.0,nature,0.45130205
+35015,Duma (2005),2005.0,nature,0.44579756
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2001.0,nature,0.42899632
+68522,Earth (2007),2007.0,nature,0.42459232
+6299,"Winged Migration (Peuple migrateur, Le) (2001)",2001.0,nature,0.42123592
+76054,Oceans (Océans) (2009),2009.0,nature,0.4192468
+5462,"Crocodile Hunter: Collision Course, The (2002)",2002.0,nature,0.39256114
+33558,"Snow Walker, The (2003)",2003.0,nature,0.38895607
+83369,"Way Back, The (2010)",2010.0,nature,0.38715708
+3999,Vertical Limit (2000),2000.0,nature,0.38582826
+55247,Into the Wild (2007),2007.0,nature,0.38256907
+47264,Barnyard: The Original Party Animals (2006),2006.0,animals,1.0214379999999998
+49647,Charlotte's Web (2006),2006.0,animals,1.0144199
+44022,Ice Age 2: The Meltdown (2006),2006.0,animals,1.0118357
+91126,War Horse (2011),2011.0,animals,1.0111024
+101142,"Croods, The (2013)",2013.0,animals,1.0098394
+5389,Spirit: Stallion of the Cimarron (2002),2002.0,animals,1.0096551
+91386,Happy Feet Two (2011),2011.0,animals,1.008378
+84944,Rango (2011),2011.0,animals,1.0046053
+91653,We Bought a Zoo (2011),2011.0,animals,1.0043771
+33615,Madagascar (2005),2005.0,animals,1.0042739
+59784,Kung Fu Panda (2008),2008.0,animals,1.0030684
+5218,Ice Age (2002),2002.0,animals,1.0019274
+6889,Brother Bear (2003),2003.0,animals,1.0018407
+43869,Curious George (2006),2006.0,animals,1.0007082
+3751,Chicken Run (2000),2000.0,animals,0.9997716
+41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",2005.0,animals,0.99942577
+6377,Finding Nemo (2003),2003.0,animals,0.9968444
+70697,G-Force (2009),2009.0,animals,0.995883
+97938,Life of Pi (2012),2012.0,animals,0.99557614
+73290,Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009),2009.0,animals,0.9952128
+8134,Wonderful Days (a.k.a. Sky Blue) (2003),2003.0,technology,1.0332137
+68358,Star Trek (2009),2009.0,technology,1.0311149
+96655,Robot & Frank (2012),2012.0,technology,1.0280817
+34319,"Island, The (2005)",2005.0,technology,1.0238916999999998
+88140,Captain America: The First Avenger (2011),2011.0,technology,1.0226399
+95875,Total Recall (2012),2012.0,technology,1.0210123
+79132,Inception (2010),2010.0,technology,1.0189626
+60069,WALL·E (2008),2008.0,technology,1.0167553
+88744,Rise of the Planet of the Apes (2011),2011.0,technology,1.0159534
+96610,Looper (2012),2012.0,technology,1.014296
+90405,In Time (2011),2011.0,technology,1.0129743
+6934,"Matrix Revolutions, The (2003)",2003.0,technology,1.0121491
+6365,"Matrix Reloaded, The (2003)",2003.0,technology,1.0112516
+77561,Iron Man 2 (2010),2010.0,technology,1.0103999
+102125,Iron Man 3 (2013),2013.0,technology,1.0101299
+7163,Paycheck (2003),2003.0,technology,1.00878
+89745,"Avengers, The (2012)",2012.0,technology,1.0077173
+8939,"Final Cut, The (2004)",2004.0,technology,1.0056883
+70336,G.I. Joe: The Rise of Cobra (2009),2009.0,technology,1.0046687
+103253,Elysium (2013),2013.0,technology,1.0040209
