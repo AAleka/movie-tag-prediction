@@ -3,7 +3,7 @@ import sys
 from tqdm import tqdm
 
 if len(sys.argv) != 3:
-    print("Usage: python split_shots.py <filename> <method>")
+    print("Usage: python splitmovie.py <filename> <method>")
     print("       method = scenedetect | transnet")
     sys.exit(1)
 
@@ -12,13 +12,13 @@ method = sys.argv[2].lower()
 
 if not os.path.exists(filename):
     print("The filename does not exist:", filename, '\n')
-    print("Usage: python split_shots.py <filename> <method>")
+    print("Usage: python splitmovie.py <filename> <method>")
     print("       method = scenedetect | transnet")
     sys.exit(1)
 
 if method not in ["scenedetect", "transnet"]:
     print("The method is not known:", method, '\n')
-    print("Usage: python split_shots.py <filename> <method>")
+    print("Usage: python splitmovie.py <filename> <method>")
     print("       method = scenedetect | transnet")
     sys.exit(1)
 
