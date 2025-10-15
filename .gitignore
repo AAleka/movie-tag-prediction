@@ -1,6 +1,7 @@
 __pycache__
 movies
 venv
+myenv
 data/annotations.txt
 data/shot_info_scenedetect.txt
 data/shot_info_transnet.txt
